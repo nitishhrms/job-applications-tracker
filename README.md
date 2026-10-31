@@ -1,0 +1,37 @@
+# Job Applications Tracker
+
+Every application submitted for **Nitish Kumar**, with its job ID. This repo is the shared dedupe record: before applying to any job, check here (company + title + job ID) — **never apply twice to the same job**.
+
+Maintained by Muse (agent) on each submission, alongside the local checkpoints.
+
+## Submitted applications
+
+| Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
+|---|---|---|---|---|---|---|---|---|
+| 5bd49d48-7a84-478f-82de-6d302c705613 | Voleon Group | Software Engineer, Platform Team | Berkeley, CA / Remote US | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613 |
+| 29931bc1-508f-4b41-ad6a-aab97e4d8958 | Whoop | Software Engineer II, Fullstack Business Systems | Boston, MA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/29931bc1-508f-4b41-ad6a-aab97e4d8958 |
+| 7e75a1a6-1884-4772-86c2-2ea4d6a7a08d | Harvey | Research Engineer / Scientist, Data & Evals | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d/application |
+| 264aac9e-3f8d-402f-a33b-04d2fe1e16be | Harvey | Research Engineer, Infrastructure | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/264aac9e-3f8d-402f-a33b-04d2fe1e16be/application |
+| 6ac97037-a307-4db9-a01f-22198262dbba | Harvey | Research Engineer / Scientist, Reinforcement Learning | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/6ac97037-a307-4db9-a01f-22198262dbba/application |
+| c2cea12b-4dba-4782-ac2d-279c6865a4b7 | Handshake | Software Engineer I, Promotions | San Francisco, CA | Handshake (Ashby) | 2026-10-30 | Agent | Submitted | https://joinhandshake.com/careers/job/?ashby_jid=c2cea12b-4dba-4782-ac2d-279c6865a4b7 |
+| 5466847008 | CoLab Software | Software Forward Deployed Engineer | Cincinnati, OH | Greenhouse | 2026-10-30 | Agent | Submitted | https://job-boards.greenhouse.io/colabsoftware/jobs/5466847008 |
+| 73bd2c98-bf87-4eaa-aea8-35e7b6131d0e | Agave | Full-Stack Software Engineer (New Grad) | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application |
+| 4350 | Waymo | Machine Learning Engineer, Maneuvering Tech | Mountain View / San Francisco / Pittsburgh | Company form | 2026-10-30 | Agent | Submitted | https://careers.withwaymo.com |
+| JR5951 | Etsy | Software Engineer II, Observability | Brooklyn, NY | Workday | 2026-10-30 | Agent | Submitted | https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1/apply |
+| — | Nori Robotics | Software Engineer | — | YC | 2026-10-19 | Self | Submitted | — |
+| — | Marathon TS | Software Engineer | — | — | 2026-10-19 | Self | Submitted | — |
+| — | SoTalent | Software Engineer | — | — | 2026-10-19 | Self | Submitted | — |
+| — | Downtrace | Lead Robotics role | — | — | 2026-10-19 | Self | Submitted (company passed) | — |
+| — | MeridianLink | AI Software Engineer (1975) | — | Ashby | 2026-10-20 | Self | Submitted (rejected 2026-10-22) | — |
+| — | Amazon | SDE Early Career | US | Amazon Jobs | 2026-10-22 | Self | Submitted | — |
+| — | Twitch | Software Engineer I | San Francisco, CA | Greenhouse | 2026-10-22 | Self | Submitted | — |
+| — | Glean | Software Engineer | — | — | 2026-10-22 | Self | Submitted | — |
+| — | SambaNova | Software Engineer | — | — | 2026-10-22 | Self | Submitted | — |
+| — | Waymo | ML Engineer, Scenes | — | Company form | 2026-10-22 | Self | Submitted | — |
+| — | Oxmiq Labs | Junior GPU Software Engineer | Campbell, CA | LinkedIn | 2026-10-23 | Self | Submitted | — |
+
+## Do not re-apply — outcome uncertain
+
+| Job ID | Company | Title | Location | Platform | Date | Note |
+|---|---|---|---|---|---|---|
+| R2632617 | Applied Materials | Algorithm Developer | Santa Clara, CA | Eightfold | 2026-10-31 | Submission outcome UNCERTAIN (conflicting run records, no confirmation email). Do NOT apply again until the status is verified. |
