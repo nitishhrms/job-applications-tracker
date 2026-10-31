@@ -41,6 +41,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 5516dd68-5507-421a-8b10-4f45bc9b7bd5 | Bedrock Robotics | Machine Learning Engineer: Perception Analytics | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/bedrock-robotics/5516dd68-5507-421a-8b10-4f45bc9b7bd5 |
 
+| R-082958 | Rocket | Software Engineer II - Python AI Engineer | Detroit, MI | Company form (Rocket / Workday) | 2026-10-31 | Agent | Submitted | https://careers.rocket.com/us/en/job/R-082958/Software-Engineer-II-Python-AI-Engineer |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
