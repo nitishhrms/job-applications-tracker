@@ -18,6 +18,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 73bd2c98-bf87-4eaa-aea8-35e7b6131d0e | Agave | Full-Stack Software Engineer (New Grad) | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application |
 | 4350 | Waymo | Machine Learning Engineer, Maneuvering Tech | Mountain View / San Francisco / Pittsburgh | Company form | 2026-10-30 | Agent | Submitted | https://careers.withwaymo.com |
 | 4824097007 | Rippling | Software Engineer II, Backend - Platform Team | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/rippling/jobs/4824097007 |
+| df35cc55-1783-402d-b0d9-ca1352f50d0b | Reducto | Machine Learning Infra Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/reducto/df35cc55-1783-402d-b0d9-ca1352f50d0b/application |
 | JR5951 | Etsy | Software Engineer II, Observability | Brooklyn, NY | Workday | 2026-10-30 | Agent | Submitted | https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1/apply |
 | — | Nori Robotics | Software Engineer | — | YC | 2026-10-19 | Self | Submitted | — |
 | — | Marathon TS | Software Engineer | — | — | 2026-10-19 | Self | Submitted | — |
