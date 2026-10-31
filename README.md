@@ -42,3 +42,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | Job ID | Company | Title | Location | Platform | Date | Note |
 |---|---|---|---|---|---|---|
 | R2632617 | Applied Materials | Algorithm Developer | Santa Clara, CA | Eightfold | 2026-10-31 | Submission outcome UNCERTAIN (conflicting run records, no confirmation email). Do NOT apply again until the status is verified. |
+| REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
