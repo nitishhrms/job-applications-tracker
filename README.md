@@ -33,6 +33,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | — | Waymo | ML Engineer, Scenes | — | Company form | 2026-10-22 | Self | Submitted | — |
 | — | Oxmiq Labs | Junior GPU Software Engineer | Campbell, CA | LinkedIn | 2026-10-23 | Self | Submitted | — |
 | 2e05ca78-e2f8-4612-81dd-ae003c4509a8 | Rowspace | Applied AI Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/rowspace/2e05ca78-e2f8-4612-81dd-ae003c4509a8 |
+| 42aca7f5-2f58-40ef-a6ce-19027d32a12f | Handshake | Machine Learning Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f |
 
 ## Do not re-apply — outcome uncertain
 
