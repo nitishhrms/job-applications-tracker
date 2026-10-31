@@ -32,6 +32,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | — | SambaNova | Software Engineer | — | — | 2026-10-22 | Self | Submitted | — |
 | — | Waymo | ML Engineer, Scenes | — | Company form | 2026-10-22 | Self | Submitted | — |
 | — | Oxmiq Labs | Junior GPU Software Engineer | Campbell, CA | LinkedIn | 2026-10-23 | Self | Submitted | — |
+| 2e05ca78-e2f8-4612-81dd-ae003c4509a8 | Rowspace | Applied AI Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/rowspace/2e05ca78-e2f8-4612-81dd-ae003c4509a8 |
 
 ## Do not re-apply — outcome uncertain
 
