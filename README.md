@@ -51,3 +51,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 |---|---|---|---|---|---|---|
 | R2632617 | Applied Materials | Algorithm Developer | Santa Clara, CA | Eightfold | 2026-10-31 | Submission outcome UNCERTAIN (conflicting run records, no confirmation email). Do NOT apply again until the status is verified. |
 | R-434028 | Humana | AI Engineer | Louisville, KY | Phenom / Workday (careers.humana.com) | 2026-10-31 | Agent | Submitted | https://careers.humana.com/us/en/job/R-434028/AI-Engineer |
+| 7675860003 | New Relic | Associate Software Engineer - Java | Portland, OR | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/newrelic/jobs/7675860003 |
