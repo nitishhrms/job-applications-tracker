@@ -35,6 +35,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 2e05ca78-e2f8-4612-81dd-ae003c4509a8 | Rowspace | Applied AI Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/rowspace/2e05ca78-e2f8-4612-81dd-ae003c4509a8 |
 | 42aca7f5-2f58-40ef-a6ce-19027d32a12f | Handshake | Machine Learning Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f |
 | 8815438002 | Brex | Software Engineer II, Backend | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://www.brex.com/careers/8815438002 |
+| 4742457002 | Stripe | Machine Learning Engineer, Radar | Seattle, WA | Greenhouse (via Stripe careers) | 2026-10-31 | Agent | Submitted | https://stripe.com/careers/apply/machine-learning-engineer-radar/8243617 |
 | ebc7a777-aa35-4333-ac95-ebc98e375f75 | Rippling | Software Engineer II, Backend - IT Product | San Francisco, CA | Rippling ATS (company form) | 2026-10-31 | Agent | Submitted | https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
