@@ -39,6 +39,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
+| 5516dd68-5507-421a-8b10-4f45bc9b7bd5 | Bedrock Robotics | Machine Learning Engineer: Perception Analytics | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/bedrock-robotics/5516dd68-5507-421a-8b10-4f45bc9b7bd5 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
