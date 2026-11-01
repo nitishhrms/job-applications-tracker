@@ -48,6 +48,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | b0996df6-6b6e-42be-a4f9-0084536068f5 | Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5 |
 | 8922481002 | Chime | Software Engineer, Membership Experience | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/chime/jobs/8922481002 |
 
+| 8107053 | CLEAR | Software Engineer Backend (Java) | New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/clear/jobs/8107053 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
