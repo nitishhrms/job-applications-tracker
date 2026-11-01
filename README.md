@@ -45,6 +45,9 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | R-082958 | Rocket | Software Engineer II - Python AI Engineer | Detroit, MI | Company form (Rocket / Workday) | 2026-10-31 | Agent | Submitted | https://careers.rocket.com/us/en/job/R-082958/Software-Engineer-II-Python-AI-Engineer |
 
+| b0996df6-6b6e-42be-a4f9-0084536068f5 | Harvey | Software Engineer, New Grad (2027) | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5 |
+| 8922481002 | Chime | Software Engineer, Membership Experience | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/chime/jobs/8922481002 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
