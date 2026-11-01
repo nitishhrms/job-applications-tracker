@@ -57,3 +57,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 7675860003 | New Relic | Associate Software Engineer - Java | Portland, OR | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/newrelic/jobs/7675860003 |
 | R54341 | Perseus Group, Constellation Software | Software Engineer I | Sharon, PA | Workday | 2026-10-31 | Agent | Submitted | https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/details/Software-Engineer-I_R54341 |
 | 297b4ece-765f-4eea-b1b8-46057cb6501f | Notion | Software Engineer, Growth (Early Career) | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f |
+| e0088228-6ad8-4503-af4a-359469e72a28 | Assembled | Software Engineer, Workforce Operations | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/assembledhq/e0088228-6ad8-4503-af4a-359469e72a28 |
