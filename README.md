@@ -56,6 +56,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 6c8acf8b-e1d8-4c02-b2fa-44c0c4494aaa | Clera | Member of Technical Staff | San Francisco, CA | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/clera/6c8acf8b-e1d8-4c02-b2fa-44c0c4494aaa |
 
+| ccc46db1 | Wolverine Trading | Software Engineer | Chicago, IL | Wolverine own form (Pinpoint) | 2026-11-01 | Agent | Submitted | https://careers.wolve.com/en/postings/ccc46db1-222a-4254-a731-3dd3225fbbf0 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
