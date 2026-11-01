@@ -58,6 +58,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | ccc46db1 | Wolverine Trading | Software Engineer | Chicago, IL | Wolverine own form (Pinpoint) | 2026-11-01 | Agent | Submitted | https://careers.wolve.com/en/postings/ccc46db1-222a-4254-a731-3dd3225fbbf0 |
 | 260003GP | Vituity | Software Engineer I | Remote, US | Vituity own form | 2026-11-01 | Agent | Submitted | https://careers.vituity.com/job/CEAMUS260003GPEXTERNALENUS/Software-Engineer-I-Remote-Nationwide |
+| JR2018659 | NVIDIA | Software Engineer, New College Grad 2026 | Santa Clara, CA | Workday | 2026-11-01 | Agent | Submitted | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
