@@ -60,6 +60,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 260003GP | Vituity | Software Engineer I | Remote, US | Vituity own form | 2026-11-01 | Agent | Submitted | https://careers.vituity.com/job/CEAMUS260003GPEXTERNALENUS/Software-Engineer-I-Remote-Nationwide |
 | JR2018659 | NVIDIA | Software Engineer, New College Grad 2026 | Santa Clara, CA | Workday | 2026-11-01 | Agent | Submitted | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659 |
 | 2026-0022330 | U.S. Bank | Software Engineer 2 (Java) | Atlanta, GA | Workday | 2026-10-31 | Agent | Submitted | https://careers.usbank.com/global/en/job/2026-0022330/Software-Engineer-2-Java |
+| 5281189007 | Thesis | AI Engineer | New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
