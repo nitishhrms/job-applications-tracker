@@ -52,6 +52,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | R-293662 | Mastercard | Software Engineer II | OFallon, MO | Mastercard own form (Workday) | 2026-11-01 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-293662 |
 | ce55ad86-5655-4c99-90ae-2887da1c32b8 | Clera | Software Engineer | San Francisco, CA | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/clera/ce55ad86-5655-4c99-90ae-2887da1c32b8 |
 
+| 4860e31f-bc86-425e-9b4d-cbaeb838365b | Clera | Product Engineer | San Francisco, CA | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/clera/4860e31f-bc86-425e-9b4d-cbaeb838365b |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
