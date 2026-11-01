@@ -50,6 +50,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 8107053 | CLEAR | Software Engineer Backend (Java) | New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/clear/jobs/8107053 |
 | R-293662 | Mastercard | Software Engineer II | OFallon, MO | Mastercard own form (Workday) | 2026-11-01 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-293662 |
+| ce55ad86-5655-4c99-90ae-2887da1c32b8 | Clera | Software Engineer | San Francisco, CA | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/clera/ce55ad86-5655-4c99-90ae-2887da1c32b8 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
