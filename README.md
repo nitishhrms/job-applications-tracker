@@ -49,6 +49,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8922481002 | Chime | Software Engineer, Membership Experience | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/chime/jobs/8922481002 |
 
 | 8107053 | CLEAR | Software Engineer Backend (Java) | New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/clear/jobs/8107053 |
+| R-293662 | Mastercard | Software Engineer II | OFallon, MO | Mastercard own form (Workday) | 2026-11-01 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-293662 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
