@@ -102,3 +102,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8328365 | DRW | Software Engineer - Trading Operations | Chicago, IL | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8328365 |
 | 2024462 | Cisco | Software Engineer (Back-end) | Seattle, WA | Cisco Careers (Phenom) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/job/2024462/Software-Engineer-Back-end |
 | 8334245 | Qualtrics | Software Development Engineer I - Data Platform | Seattle, WA | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 |
+| 8111434003 | 2K | Server Engineer - NBA 2K | Irvine, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/2k/jobs/8111434003 |
