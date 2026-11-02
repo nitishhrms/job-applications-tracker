@@ -62,6 +62,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 2026-0022330 | U.S. Bank | Software Engineer 2 (Java) | Atlanta, GA | Workday | 2026-10-31 | Agent | Submitted | https://careers.usbank.com/global/en/job/2026-0022330/Software-Engineer-2-Java |
 | 5281189007 | Thesis | AI Engineer | New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007 |
 | 5871 | D. E. Shaw | Full-Stack Software Engineer | New York, NY | D. E. Shaw own form | 2026-11-01 | Agent | Submitted | https://apply.deshaw.com/ApplicationPage1.html?entity=DESCO&source=Website&jobs=5871 |
+| d9d0e3d9-e6a2-47a3-8816-3dc104860451 | Doit (Bjak) | Full Stack Engineer | Remote, US | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451/application |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
