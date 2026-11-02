@@ -72,6 +72,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 8d8378cf-edf2-4c86-afcc-49df91ece2e4 | Plaid | Machine Learning Engineer - Lendscore | New York, NY | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 |
 
+| — | Sun West Mortgage Company | Software Engineer | United States (Remote) | Company own form | 2026-11-02 | Agent | Submitted | https://www.sunwestmortgage.com/careers |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
