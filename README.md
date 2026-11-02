@@ -67,6 +67,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | eee64e05-59fe-4d42-9e7a-de494c7848f7 | WisdomAI | Software Engineer, Backend | San Mateo, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Wisdom-AI/eee64e05-59fe-4d42-9e7a-de494c7848f7 |
 | 5412768008 | Breeze | Full Stack Engineer - Junior | New York, NY | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/breezecash/jobs/5412768008 |
 | fse | matcha.fm | Founding Full-stack Software Engineer | Remote, US | Company form | 2026-11-02 | Agent | Submitted | https://matcha.fm/apply/fse |
+| 89393523 | Ladders | Software Engineer I, Fullstack (Search) | Remote, US | Ladders Apply4Me | 2026-11-02 | Agent | Submitted | https://www.theladders.com/linkedin/89393523?src=LinkedIn |
 
 ## Do not re-apply — outcome uncertain
 
