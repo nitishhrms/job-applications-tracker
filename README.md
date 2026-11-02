@@ -66,6 +66,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8334973 | Yext | Software Engineer | New York, NY | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/yext/jobs/8334973 |
 | eee64e05-59fe-4d42-9e7a-de494c7848f7 | WisdomAI | Software Engineer, Backend | San Mateo, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Wisdom-AI/eee64e05-59fe-4d42-9e7a-de494c7848f7 |
 | 5412768008 | Breeze | Full Stack Engineer - Junior | New York, NY | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/breezecash/jobs/5412768008 |
+| fse | matcha.fm | Founding Full-stack Software Engineer | Remote, US | Company form | 2026-11-02 | Agent | Submitted | https://matcha.fm/apply/fse |
 
 ## Do not re-apply — outcome uncertain
 
