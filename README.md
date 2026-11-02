@@ -80,6 +80,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | — | Sun West Mortgage Company | Software Engineer | United States (Remote) | Company own form | 2026-11-02 | Agent | Submitted | https://www.sunwestmortgage.com/careers |
 | R1004621 | Capital One | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://www.capitalonecareers.com/job/new-york/ai-engineer-4-mlx-agentic-ai-gen-ai-workflows-graphrag/1732/102529573840 |
+| 7d6ae2be-cd53-466c-8151-2dae2e87aace | Abridge | Member of Technical Staff, Early Career | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application |
 | 9eba8322-0e81-42db-9dcb-81ddcc7c907a | Method Financial | Software Engineer | New York, NY / Austin, TX / Washington, DC | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a |
 | 5279677007 | Esri | C/C++ Software Development Engineer II - Data Management | Redlands, CA | Greenhouse (Esri careers) | 2026-11-02 | Agent | Submitted | https://www.esri.com/careers/5279677007?title=c-cplusplus-software-development-engineer-ii-data-management&gh_jid=5279677007 |
 
