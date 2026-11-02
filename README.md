@@ -70,6 +70,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 89393523 | Ladders | Software Engineer I, Fullstack (Search) | Remote, US | Ladders Apply4Me | 2026-11-02 | Agent | Submitted | https://www.theladders.com/linkedin/89393523?src=LinkedIn |
 | 2634818 | KLA | Software Engineer (C++, OOD/OOP, Linux) | Milpitas, CA | Workday | 2026-11-02 | Agent | Submitted | https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818 |
 
+| 8d8378cf-edf2-4c86-afcc-49df91ece2e4 | Plaid | Machine Learning Engineer - Lendscore | New York, NY | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
@@ -81,4 +83,3 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 297b4ece-765f-4eea-b1b8-46057cb6501f | Notion | Software Engineer, Growth (Early Career) | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f |
 | e0088228-6ad8-4503-af4a-359469e72a28 | Assembled | Software Engineer, Workforce Operations | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/assembledhq/e0088228-6ad8-4503-af4a-359469e72a28 |
 | 5468947008 | Anthropic | Research Engineer / Scientist, Pre-training | San Francisco, CA / Seattle, WA / New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/anthropic/jobs/5468947008 |
-| 8d8378cf-edf2-4c86-afcc-49df91ece2e4 | Plaid | Machine Learning Engineer - Lendscore | New York, NY | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 |
