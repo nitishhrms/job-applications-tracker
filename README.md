@@ -96,3 +96,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | e0088228-6ad8-4503-af4a-359469e72a28 | Assembled | Software Engineer, Workforce Operations | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/assembledhq/e0088228-6ad8-4503-af4a-359469e72a28 |
 | 5468947008 | Anthropic | Research Engineer / Scientist, Pre-training | San Francisco, CA / Seattle, WA / New York, NY | Greenhouse | 2026-11-01 | Agent | Submitted | https://job-boards.greenhouse.io/anthropic/jobs/5468947008 |
 | 8328365 | DRW | Software Engineer - Trading Operations | Chicago, IL | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8328365 |
+| 2024462 | Cisco | Software Engineer (Back-end) | Seattle, WA | Cisco Careers (Phenom) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/job/2024462/Software-Engineer-Back-end |
