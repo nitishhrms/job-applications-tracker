@@ -72,6 +72,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | bf-g0077-s00 | Evlo | Machine Learning Engineer | Dallas, TX (Remote) | Company own form | 2026-11-02 | Agent | Submitted | https://evlo.ai/jobs/apply/bf-g0077-s00?src=LinkedIn-bluefunnel |
 | b82a29fd-6ee0-4fa4-9380-fb3668075598 | Mintive | Software Engineer | San Mateo, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/mintive/b82a29fd-6ee0-4fa4-9380-fb3668075598/application |
 | 4722721005 | Precisely | Associate Software Engineer (Python AI) | United States (Remote) | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.precisely.com/careers-and-culture/us-jobs/job/?gh_jid=4722721005 |
+| 2028277 | Cisco | Software Engineer | San Francisco, CA | Cisco Careers (Phenom / Workday) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/applythankyou?status=success&jobSeqNo=CISCISGLOBAL2028277EXTERNALENGLOBAL&jobTitle=Software%20Engineer&jobId=2028277 |
 
 | 8d8378cf-edf2-4c86-afcc-49df91ece2e4 | Plaid | Machine Learning Engineer - Lendscore | New York, NY | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 |
 
