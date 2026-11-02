@@ -64,6 +64,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5871 | D. E. Shaw | Full-Stack Software Engineer | New York, NY | D. E. Shaw own form | 2026-11-01 | Agent | Submitted | https://apply.deshaw.com/ApplicationPage1.html?entity=DESCO&source=Website&jobs=5871 |
 | d9d0e3d9-e6a2-47a3-8816-3dc104860451 | Doit (Bjak) | Full Stack Engineer | Remote, US | Ashby | 2026-11-01 | Agent | Submitted | https://jobs.ashbyhq.com/bjakcareer/d9d0e3d9-e6a2-47a3-8816-3dc104860451/application |
 | 8334973 | Yext | Software Engineer | New York, NY | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/yext/jobs/8334973 |
+| eee64e05-59fe-4d42-9e7a-de494c7848f7 | WisdomAI | Software Engineer, Backend | San Mateo, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Wisdom-AI/eee64e05-59fe-4d42-9e7a-de494c7848f7 |
 
 ## Do not re-apply — outcome uncertain
 
