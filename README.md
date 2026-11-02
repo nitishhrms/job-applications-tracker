@@ -78,6 +78,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8d8378cf-edf2-4c86-afcc-49df91ece2e4 | Plaid | Machine Learning Engineer - Lendscore | New York, NY | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4 |
 
 | — | Sun West Mortgage Company | Software Engineer | United States (Remote) | Company own form | 2026-11-02 | Agent | Submitted | https://www.sunwestmortgage.com/careers |
+| R1004621 | Capital One | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://www.capitalonecareers.com/job/new-york/ai-engineer-4-mlx-agentic-ai-gen-ai-workflows-graphrag/1732/102529573840 |
 
 ## Do not re-apply — outcome uncertain
 
