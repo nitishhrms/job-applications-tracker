@@ -110,3 +110,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 48bab48f-c708-40b6-ac2c-36bb704287b3 | Applied Intuition | Software Engineer (Sunnyvale, CA) | Sunnyvale, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3 |
 | 8338246 | ZipRecruiter | Software Engineer, Big Data, Tech Enablement | Santa Monica, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/ziprecruiter/jobs/8338246 |
 | 4d892e32-6245-4ce4-8047-d77394b8932a | Plaud Inc. | Machine Learning Engineer, Speech LLM Training | San Francisco Bay Area, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Plaud/4d892e32-6245-4ce4-8047-d77394b8932a |
+| a2416174-4eee-416f-bf5e-e3b7d9c0b4d5 | depthfirst | Backend Engineer | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/depthfirst/a2416174-4eee-416f-bf5e-e3b7d9c0b4d5 |
