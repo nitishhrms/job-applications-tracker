@@ -122,4 +122,5 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | R168272 | Baker Hughes | Software Engineer | Minden, NV | Workday | 2026-11-02 | Agent | Submitted | https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272 |
 | 4431777 | Commence | AI/ML Engineer | Remote, DC | Paylocity | 2026-11-02 | Agent | Submitted | https://recruiting.paylocity.com/recruiting/jobs/Details/4431777/Leader-Aquisition-LLC/AIML-Engineer |
 | 5378493008 | LG Electronics | Data Scientist / AI Engineer | Huntsville, AL | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/lgelectronics/jobs/5378493008 |
+| JR-0015456 | Huron | GenAI Engineer, Associate | Chicago, IL (Remote) | Workday | 2026-11-03 | Agent | Submitted | https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Chicago---550-Van-Buren/GenAI-Engineer--Associate_JR-0015456 |
 | 8331827 | DRW | AI Enablement Engineer | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8331827 |
