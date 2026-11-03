@@ -134,3 +134,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8331827 | DRW | AI Enablement Engineer | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8331827 |
 | 6242246004 | Vercel | Software Engineer, Agent Auth | San Francisco, CA | Company careers (ATS) | 2026-11-03 | Agent | Submitted | https://vercel.com/careers/software-engineer-agent-auth-6242246004 |
 | R0121452 | Truist | Software Engineer | Charlotte, NC / Atlanta, GA | Workday (Truist careers) | 2026-11-03 | Agent | Submitted | https://careers.truist.com/us/en/job/R0121452/Software-Engineer |
+| JR2028824 | NVIDIA | GPU System and Scheduling Architect - New College Grad 2026 | Santa Clara, CA | Workday | 2026-11-03 | Agent | Submitted | https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824 |
