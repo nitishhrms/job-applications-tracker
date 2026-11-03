@@ -92,6 +92,10 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | R29361 | Bose | Machine Learning / AI Engineer | Remote, MA, United States | Bose Careers (Phenom / Workday) | 2026-11-02 | Agent | Submitted | https://careers.bose.com/us/en/job/R29361/Machine-Learning-AI-Engineer |
 | 4f2d9849-ad00-48d5-a22f-0cb943723999 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999 |
 
+| 8347710 | Smartsheet | Software Engineer I (Remote Eligible) | United States (Remote) | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/smartsheet/jobs/8347710 |
+| 49063 | Paylocity | Associate Machine Learning Engineer | United States (Remote) | Paylocity (company own ATS) | 2026-11-02 | Agent | Submitted | https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49063 |
+| JR1000037 | Postman | Software Engineer - Fern | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
