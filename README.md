@@ -87,6 +87,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 893869 | Motion Recruitment | Software AI Engineer / Robotics | Brooklyn, NY | Motion Recruitment | 2026-11-02 | Agent | Submitted | https://motionrecruitment.com/tech-jobs/brooklyn/direct-hire/software-ai-engineer-robotics-brooklyn/893869 |
 | 9eba8322-0e81-42db-9dcb-81ddcc7c907a | Method Financial | Software Engineer | New York, NY / Austin, TX / Washington, DC | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a |
 | 5279677007 | Esri | C/C++ Software Development Engineer II - Data Management | Redlands, CA | Greenhouse (Esri careers) | 2026-11-02 | Agent | Submitted | https://www.esri.com/careers/5279677007?title=c-cplusplus-software-development-engineer-ii-data-management&gh_jid=5279677007 |
+| d8925f84-562f-470c-a5bd-4f6c20009361 | Ramp | Research Engineer, Benchmarks & Evaluation | New York, NY / San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361 |
 
 ## Do not re-apply — outcome uncertain
 
