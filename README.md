@@ -96,6 +96,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 49063 | Paylocity | Associate Machine Learning Engineer | United States (Remote) | Paylocity (company own ATS) | 2026-11-02 | Agent | Submitted | https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49063 |
 | JR1000037 | Postman | Software Engineer - Fern | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 |
 
+| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
