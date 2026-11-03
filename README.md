@@ -129,3 +129,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5378493008 | LG Electronics | Data Scientist / AI Engineer | Huntsville, AL | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/lgelectronics/jobs/5378493008 |
 | JR-0015456 | Huron | GenAI Engineer, Associate | Chicago, IL (Remote) | Workday | 2026-11-03 | Agent | Submitted | https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Chicago---550-Van-Buren/GenAI-Engineer--Associate_JR-0015456 |
 | 8331827 | DRW | AI Enablement Engineer | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8331827 |
+| 6242246004 | Vercel | Software Engineer, Agent Auth | San Francisco, CA | Company careers (ATS) | 2026-11-03 | Agent | Submitted | https://vercel.com/careers/software-engineer-agent-auth-6242246004 |
