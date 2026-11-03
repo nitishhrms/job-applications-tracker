@@ -105,3 +105,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8111434003 | 2K | Server Engineer - NBA 2K | Irvine, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/2k/jobs/8111434003 |
 | 2642339 | KLA | Software Engineer | Milpitas, CA | Workday | 2026-11-02 | Agent | Submitted | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2642339-1 |
 | 8337444 | Reddit | Software Engineer, Infrastructure Engineering | Remote - United States | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/reddit/jobs/8337444 |
+| 48bab48f-c708-40b6-ac2c-36bb704287b3 | Applied Intuition | Software Engineer (Sunnyvale, CA) | Sunnyvale, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3 |
