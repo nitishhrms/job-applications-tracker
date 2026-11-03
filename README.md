@@ -104,3 +104,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8334245 | Qualtrics | Software Development Engineer I - Data Platform | Seattle, WA | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 |
 | 8111434003 | 2K | Server Engineer - NBA 2K | Irvine, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/2k/jobs/8111434003 |
 | 2642339 | KLA | Software Engineer | Milpitas, CA | Workday | 2026-11-02 | Agent | Submitted | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2642339-1 |
+| 8337444 | Reddit | Software Engineer, Infrastructure Engineering | Remote - United States | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/reddit/jobs/8337444 |
