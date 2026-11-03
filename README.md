@@ -119,3 +119,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | a2416174-4eee-416f-bf5e-e3b7d9c0b4d5 | depthfirst | Backend Engineer | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/depthfirst/a2416174-4eee-416f-bf5e-e3b7d9c0b4d5 |
 | R168272 | Baker Hughes | Software Engineer | Minden, NV | Workday | 2026-11-02 | Agent | Submitted | https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272 |
 | 4431777 | Commence | AI/ML Engineer | Remote, DC | Paylocity | 2026-11-02 | Agent | Submitted | https://recruiting.paylocity.com/recruiting/jobs/Details/4431777/Leader-Aquisition-LLC/AIML-Engineer |
+| 5378493008 | LG Electronics | Data Scientist / AI Engineer | Huntsville, AL | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/lgelectronics/jobs/5378493008 |
