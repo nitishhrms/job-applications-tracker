@@ -139,3 +139,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | JR-0098427 | Dematic | Software Engineer | Wauwatosa, WI | Workday (KION Group) | 2026-11-03 | Agent | Submitted | https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/details/Software-Engineer_JR-0098427 |
 | R0039339 | HUB International | AI Engineer | Chicago, IL | Workday (Phenom) | 2026-11-03 | Agent | Submitted | https://careers.hubinternational.com/us/en/job/R0039339/AI-Engineer |
 | 7749755003 | Affirm | Software Engineer II, Fullstack (Capital Orchestration) | Remote, United States | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/7749755003 |
+| 2024848 | Cisco | Software Engineer Data & AI II (Full Time) – United States | San Jose, CA / Austin, TX / Durham, NC | Cisco Careers (Phenom) | 2026-11-03 | Agent | Submitted | https://careers.cisco.com/global/en/job/2024848/Software-Engineer-Data-AI-II-Full-Time-United-States |
