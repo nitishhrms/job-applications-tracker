@@ -39,6 +39,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | ebc7a777-aa35-4333-ac95-ebc98e375f75 | Rippling | Software Engineer II, Backend - IT Product | San Francisco, CA | Rippling ATS (company form) | 2026-10-31 | Agent | Submitted | https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75 |
 | 8771512002 | GitLab | Backend Engineer, Knowledge Graph | Remote, US | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/gitlab/jobs/8771512002 |
 | 6222737004 | Arc Institute | Software Engineer, Lab Platform | Palo Alto, CA | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004 |
+| 1ae0c52c-e5ea-474c-860a-4f9b19dc676b | Profound | Agent Engineer | San Francisco, CA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b/application |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
