@@ -43,6 +43,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 1ae0c52c-e5ea-474c-860a-4f9b19dc676b | Profound | Agent Engineer | San Francisco, CA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b/application |
 | 6240725004 | SambaNova Systems | Machine Learning Engineer - New Grad | San Jose, CA / Austin, TX | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/sambanovasystems/jobs/6240725004 |
 | 5032353007 | Esri | C++ Software Development Engineer II - Graph Algorithms | Redlands, CA | Greenhouse | 2026-11-03 | Agent | Submitted | https://www.esri.com/careers/5032353007?title=cplusplus-software-development-engineer-ii-graph-algorithms&gh_jid=5032353007 |
+| 4819 | American Bureau of Shipping (ABS) | AI/ML Engineer | Washington, DC | Oracle Recruiting | 2026-11-03 | Agent | Submitted | https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4819 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
