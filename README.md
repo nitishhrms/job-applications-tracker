@@ -90,6 +90,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | d8925f84-562f-470c-a5bd-4f6c20009361 | Ramp | Research Engineer, Benchmarks & Evaluation | New York, NY / San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361 |
 | 2028006 | Cisco | Software Engineer | San Jose, CA | Cisco Careers (Phenom / Workday) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/job/2028006/Software-Engineer |
 | R29361 | Bose | Machine Learning / AI Engineer | Remote, MA, United States | Bose Careers (Phenom / Workday) | 2026-11-02 | Agent | Submitted | https://careers.bose.com/us/en/job/R29361/Machine-Learning-AI-Engineer |
+| 4f2d9849-ad00-48d5-a22f-0cb943723999 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999 |
 
 ## Do not re-apply — outcome uncertain
 
