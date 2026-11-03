@@ -38,6 +38,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4742457002 | Stripe | Machine Learning Engineer, Radar | Seattle, WA | Greenhouse (via Stripe careers) | 2026-10-31 | Agent | Submitted | https://stripe.com/careers/apply/machine-learning-engineer-radar/8243617 |
 | ebc7a777-aa35-4333-ac95-ebc98e375f75 | Rippling | Software Engineer II, Backend - IT Product | San Francisco, CA | Rippling ATS (company form) | 2026-10-31 | Agent | Submitted | https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75 |
 | 8771512002 | GitLab | Backend Engineer, Knowledge Graph | Remote, US | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/gitlab/jobs/8771512002 |
+| 8922249002 | GitLab | Intermediate Fullstack Engineer, Subscription Lifecycle | Remote, United States / Canada | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/gitlab/jobs/8922249002 |
 | 6222737004 | Arc Institute | Software Engineer, Lab Platform | Palo Alto, CA | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004 |
 | 1ae0c52c-e5ea-474c-860a-4f9b19dc676b | Profound | Agent Engineer | San Francisco, CA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/Profound/1ae0c52c-e5ea-474c-860a-4f9b19dc676b/application |
 | 6240725004 | SambaNova Systems | Machine Learning Engineer - New Grad | San Jose, CA / Austin, TX | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/sambanovasystems/jobs/6240725004 |
