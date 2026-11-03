@@ -132,3 +132,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 927c74a5 | Chalk | Software Engineer - New Grad | New York, NY | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f |
 | 8331827 | DRW | AI Enablement Engineer | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8331827 |
 | 6242246004 | Vercel | Software Engineer, Agent Auth | San Francisco, CA | Company careers (ATS) | 2026-11-03 | Agent | Submitted | https://vercel.com/careers/software-engineer-agent-auth-6242246004 |
+| R0121452 | Truist | Software Engineer | Charlotte, NC / Atlanta, GA | Workday (Truist careers) | 2026-11-03 | Agent | Submitted | https://careers.truist.com/us/en/job/R0121452/Software-Engineer |
