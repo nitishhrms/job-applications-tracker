@@ -112,6 +112,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 2030653 | Cisco | Software Engineer, Network Engineering | San Jose, CA / Milpitas, CA | Cisco Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://careers.cisco.com/global/en/job/2030653/Software-Engineer-Network-Engineering |
 
+| R-294616 | Mastercard | Software Engineer II - AI Platforms | Atlanta, GA | Mastercard Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-294616/Software-Engineer-II-AI-Platforms |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
