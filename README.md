@@ -105,6 +105,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
 
+| 4485795436 | Fonzi AI | ML Engineer | San Francisco Bay Area, CA | Fonzi (company own, talent.fonzi.ai) | 2026-11-03 | Agent | Submitted | https://talent.fonzi.ai/ |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
