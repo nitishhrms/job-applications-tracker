@@ -162,3 +162,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8902671002 | Qube Research & Technologies | Production Support Engineer - LLM Platform | Chicago, IL / New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.qube-rt.com/careers/job?gh_jid=8902671002 |
 | 4011484007 | Ryder System | Software Engineer - Infrastructure, Data Platform | San Francisco, CA | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/baton/jobs/4011484007 |
 | 4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | Gecko Robotics | Software Engineer \| Infrastructure | New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 |
+| 1cba14aa-a69d-4f54-a64b-013c05d24d53 | Applied Intuition | Software Engineer, C++ (Onboard Platform) | Sunnyvale, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/applied/1cba14aa-a69d-4f54-a64b-013c05d24d53 |
