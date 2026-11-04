@@ -150,3 +150,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 770c58f3-7391-41cd-b992-be5a7311b1b2 | Writer | Infrastructure engineer | New York, NY / San Francisco, CA / Seattle, WA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/writer/770c58f3-7391-41cd-b992-be5a7311b1b2 |
 | 93fbe5ce-2ce9-41ea-a998-a433c0f7f085 | Writer | AI engineer | San Francisco, CA / New York, NY | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/writer/93fbe5ce-2ce9-41ea-a998-a433c0f7f085 |
 | 6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 | Nooks | Software Engineer | Seattle, WA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0 |
+| JB0076691 | ServiceNow | Software Engineer, Agent Eval Platform | Mountain View, CA | SmartRecruiters | 2026-11-03 | Agent | Submitted | https://careers.servicenow.com/jobs/744000159509479/software-engineer-agent-eval-platform/ |
