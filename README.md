@@ -144,3 +144,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8350702 | Pure Storage | Software Engineer | Santa Clara, CA | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/purestorage/jobs/8350702 |
 | 2170c74d-7726-4d8f-910e-7f4ef7ac4fd1 | Writer | Software engineer, generative AI | San Francisco, CA / New York, NY / Seattle, WA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1 |
 | ce86adec-e8ce-4bbf-a706-43795a982de6 | Writer | Software engineer, agents | New York, NY / San Francisco, CA / Seattle, WA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6 |
+| 770c58f3-7391-41cd-b992-be5a7311b1b2 | Writer | Infrastructure engineer | New York, NY / San Francisco, CA / Seattle, WA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/writer/770c58f3-7391-41cd-b992-be5a7311b1b2 |
