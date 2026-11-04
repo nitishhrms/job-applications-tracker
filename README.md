@@ -107,6 +107,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 4485795436 | Fonzi AI | ML Engineer | San Francisco Bay Area, CA | Fonzi (company own, talent.fonzi.ai) | 2026-11-03 | Agent | Submitted | https://talent.fonzi.ai/ |
 
+| a46fd3d9-400c-4f99-bb83-2042a4e12ab3 | Nooks | Software Engineer | San Francisco, CA | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
