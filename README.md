@@ -121,6 +121,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 4146862009 | Machinify | AI Engineer - Agentic Systems | Remote, US | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 |
 
+| 29bad846-de60-4be7-a222-69b97e044930 | Whatnot | Software Engineer, 2027 New Grad | Seattle, WA (also NY / LA / SF) | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
