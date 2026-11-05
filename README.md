@@ -114,6 +114,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | R-294616 | Mastercard | Software Engineer II - AI Platforms | Atlanta, GA | Mastercard Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-294616/Software-Engineer-II-AI-Platforms |
 | 8930382002 | Myriad360 | Junior AI and Automation Engineer | Remote US | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/myriad360/jobs/8930382002 |
+| 744000159724018 | NBCUniversal | Jr. Software Engineer | Universal City, CA | SmartRecruiters | 2026-11-04 | Agent | Submitted | https://jobs.smartrecruiters.com/NBCUniversal3/744000159724018-jr-software-engineer |
 
 ## Do not re-apply — outcome uncertain
 
