@@ -174,3 +174,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 | Obvio | Software Engineer, Annotation Systems | San Carlos, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/obvio/4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 |
 | 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
 | 1B2646E985 | Ottimate | Software Engineer (US Candidates only) | Remote, United States | Workable | 2026-11-05 | Agent | Submitted | https://apply.workable.com/ottimate/j/1B2646E985/ |
+| 55f5cd70-58f7-4c09-a8a0-e9254ceecddf | Quadric | AI Inference Framework Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/55f5cd70-58f7-4c09-a8a0-e9254ceecddf |
