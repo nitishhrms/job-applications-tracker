@@ -175,3 +175,5 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
 | 1B2646E985 | Ottimate | Software Engineer (US Candidates only) | Remote, United States | Workable | 2026-11-05 | Agent | Submitted | https://apply.workable.com/ottimate/j/1B2646E985/ |
 | 55f5cd70-58f7-4c09-a8a0-e9254ceecddf | Quadric | AI Inference Framework Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/55f5cd70-58f7-4c09-a8a0-e9254ceecddf |
+| 1755413f-b585-476c-a572-acdcae416dba | Quadric | AI Inference Optimization Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/1755413f-b585-476c-a572-acdcae416dba |
+| R00152389 | AbbVie | AI Engineer | North Chicago, IL | SmartRecruiters | 2026-11-05 | Agent | Submitted | https://careers.abbvie.com/en/job/ai-engineer-in-north-chicago-il-jid-35295 |
