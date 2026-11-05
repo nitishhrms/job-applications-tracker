@@ -124,6 +124,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 29bad846-de60-4be7-a222-69b97e044930 | Whatnot | Software Engineer, 2027 New Grad | Seattle, WA (also NY / LA / SF) | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930 |
 
 | 8929390002 | Zwift | Software Engineer | Remote, US | Greenhouse | 2026-11-05 | Agent | Submitted | https://www.zwift.com/careers?gh_jid=8929390002 |
+| 783704d7-5afa-45aa-899b-1d6799f73004 | OpenAI | Software Engineer, Agent Platform | San Francisco, CA / New York, NY | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004/application |
 
 ## Do not re-apply — outcome uncertain
 
