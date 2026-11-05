@@ -173,3 +173,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5021322101 | ASM International | Engineer II, Field Software | Austin, TX | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.asm.com/open-vacancies/engineer-ii-field-software-5021322101?gh_jid=5021322101 |
 | 4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 | Obvio | Software Engineer, Annotation Systems | San Carlos, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/obvio/4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 |
 | 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
+| 1B2646E985 | Ottimate | Software Engineer (US Candidates only) | Remote, United States | Workable | 2026-11-05 | Agent | Submitted | https://apply.workable.com/ottimate/j/1B2646E985/ |
