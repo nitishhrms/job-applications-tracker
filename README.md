@@ -168,3 +168,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 1cba14aa-a69d-4f54-a64b-013c05d24d53 | Applied Intuition | Software Engineer, C++ (Onboard Platform) | Sunnyvale, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/applied/1cba14aa-a69d-4f54-a64b-013c05d24d53 |
 | 3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI | San Francisco, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/Deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 |
 | f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, CA / New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 |
+| 5021322101 | ASM International | Engineer II, Field Software | Austin, TX | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.asm.com/open-vacancies/engineer-ii-field-software-5021322101?gh_jid=5021322101 |
