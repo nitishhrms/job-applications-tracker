@@ -172,3 +172,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, CA / New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 |
 | 5021322101 | ASM International | Engineer II, Field Software | Austin, TX | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.asm.com/open-vacancies/engineer-ii-field-software-5021322101?gh_jid=5021322101 |
 | 4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 | Obvio | Software Engineer, Annotation Systems | San Carlos, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/obvio/4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 |
+| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
