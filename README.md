@@ -116,6 +116,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8930382002 | Myriad360 | Junior AI and Automation Engineer | Remote US | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/myriad360/jobs/8930382002 |
 | 744000159724018 | NBCUniversal | Jr. Software Engineer | Universal City, CA | SmartRecruiters | 2026-11-04 | Agent | Submitted | https://jobs.smartrecruiters.com/NBCUniversal3/744000159724018-jr-software-engineer |
 | V9u3fTjcNX | Foundation AI | Software Engineer | New York, NY | JazzHR | 2026-11-04 | Agent | Submitted | https://foundationai.applytojob.com/apply/V9u3fTjcNX/Software-Engineer |
+| 8346858 | Qualtrics | Software Engineer II - Reporting Platform | Seattle, WA | Qualtrics Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8346858/Software-Engineer-II-Reporting-Platform |
 
 ## Do not re-apply — outcome uncertain
 
