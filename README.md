@@ -184,3 +184,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 1755413f-b585-476c-a572-acdcae416dba | Quadric | AI Inference Optimization Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/1755413f-b585-476c-a572-acdcae416dba |
 | R00152389 | AbbVie | AI Engineer | North Chicago, IL | SmartRecruiters | 2026-11-05 | Agent | Submitted | https://careers.abbvie.com/en/job/ai-engineer-in-north-chicago-il-jid-35295 |
 | 8204313 | CarGurus | Software Development Engineer II, Front End | Boston, MA | Phenom (company careers) | 2026-11-05 | Agent | Submitted | https://careers.cargurus.com/us/en/job/8204313/Software-Development-Engineer-II-Front-End |
+| f65ba1d9-f809-442f-88df-453241e8d509 | Amplitude | Software Engineer II, Analytics Compute Platform Team | San Francisco, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509 |
