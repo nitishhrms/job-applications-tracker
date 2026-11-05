@@ -190,3 +190,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 6242824004 | EvolutionIQ | AI Engineer (CCC Auto / Agentic) | Chicago, IL or Remote | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/evolutioniq/jobs/6242824004 |
 | 8349916 | Reddit | Machine Learning Engineer | San Francisco, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/reddit/jobs/8349916 |
 | 8196707003 | Telnyx | AI Forward Deployed Engineer | Remote | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/telnyx54/jobs/8196707003 |
+| 5283655007 | Verkada | Software Engineer, Cloud Infrastructure | San Mateo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/verkada/jobs/5283655007 |
