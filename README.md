@@ -201,3 +201,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8cb78937-ac30-4ab2-98d0-680228ea5e6f | Cerebras | Software Engineer, Kernel Reliability | Sunnyvale, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f |
 | 8236612 | Pindrop | Software Engineer II (Authentication) | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612 |
 | 101075 | Nationwide | Engineer, Software Engineer | Des Moines, IA | Workday | 2026-11-06 | Agent | Submitted | https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075 |
+| 4673650101 | IMC Trading | C++ Software Engineer | Chicago, IL / New York, NY | Company own form | 2026-11-06 | Agent | Submitted | https://www.imc.com/us/careers/jobs/4673650101 |
