@@ -130,6 +130,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5014076101 | StubHub | Software Engineer II - Seller Experience | Aliso Viejo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101 |
 | JR1000135 | Postman | Frontier AI Engineer | Remote, WA, US | Workday | 2026-11-05 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/Remote-WA-US/Frontier-AI-Engineer_JR1000135 |
 | 5019821101 | ASM International | Software Engineer - Early Career | Phoenix, AZ | Greenhouse | 2026-11-06 | Agent | Submitted | https://www.asm.com/open-vacancies/software-engineer-early-career-5019821101?gh_jid=5019821101 |
+| R31431 | Chewy | Software Engineer I | Boston, MA / Plantation, FL | Phenom | 2026-11-06 | Agent | Submitted | https://careers.chewy.com/us/en/job/R31431/Software-Engineer-I |
 
 ## Do not re-apply — outcome uncertain
 
