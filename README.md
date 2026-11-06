@@ -202,3 +202,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8236612 | Pindrop | Software Engineer II (Authentication) | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612 |
 | 101075 | Nationwide | Engineer, Software Engineer | Des Moines, IA | Workday | 2026-11-06 | Agent | Submitted | https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075 |
 | 4673650101 | IMC Trading | C++ Software Engineer | Chicago, IL / New York, NY | Company own form | 2026-11-06 | Agent | Submitted | https://www.imc.com/us/careers/jobs/4673650101 |
+| REQ19397 | Cotality | Software Engineer | Dallas, TX | Workday | 2026-11-06 | Agent | Submitted | https://cotality.wd115.myworkdayjobs.com/en-US/Global/details/Software-Engineer_REQ19397 |
