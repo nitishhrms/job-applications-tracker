@@ -127,6 +127,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 783704d7-5afa-45aa-899b-1d6799f73004 | OpenAI | Software Engineer, Agent Platform | San Francisco, CA / New York, NY | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004/application |
 | 8356571 | DiDi Global | Machine Learning Engineer - Agentic AI | San Jose, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/didi/jobs/8356571 |
 
+| 5014076101 | StubHub | Software Engineer II - Seller Experience | Aliso Viejo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101 |
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
