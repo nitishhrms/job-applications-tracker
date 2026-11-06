@@ -200,3 +200,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8932903002 | PathAI | Software Engineer II, Fullstack | Boston, MA | Greenhouse | 2026-11-05 | Agent | Submitted | https://www.pathai.com/career/job-post?gh_jid=8932903002 |
 | 8cb78937-ac30-4ab2-98d0-680228ea5e6f | Cerebras | Software Engineer, Kernel Reliability | Sunnyvale, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f |
 | 8236612 | Pindrop | Software Engineer II (Authentication) | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612 |
+| 101075 | Nationwide | Engineer, Software Engineer | Des Moines, IA | Workday | 2026-11-06 | Agent | Submitted | https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075 |
