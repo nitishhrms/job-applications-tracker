@@ -195,3 +195,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8196707003 | Telnyx | AI Forward Deployed Engineer | Remote | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/telnyx54/jobs/8196707003 |
 | 5283655007 | Verkada | Software Engineer, Cloud Infrastructure | San Mateo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/verkada/jobs/5283655007 |
 | 90879967-1071-4d05-9180-6e18023ed887 | Cerebras | AI Inference Core - Software Integration Engineer | Sunnyvale, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887 |
+| 8932903002 | PathAI | Software Engineer II, Fullstack | Boston, MA | Greenhouse | 2026-11-05 | Agent | Submitted | https://www.pathai.com/career/job-post?gh_jid=8932903002 |
