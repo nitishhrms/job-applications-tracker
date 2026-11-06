@@ -196,3 +196,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5283655007 | Verkada | Software Engineer, Cloud Infrastructure | San Mateo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/verkada/jobs/5283655007 |
 | 90879967-1071-4d05-9180-6e18023ed887 | Cerebras | AI Inference Core - Software Integration Engineer | Sunnyvale, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887 |
 | 8932903002 | PathAI | Software Engineer II, Fullstack | Boston, MA | Greenhouse | 2026-11-05 | Agent | Submitted | https://www.pathai.com/career/job-post?gh_jid=8932903002 |
+| 8cb78937-ac30-4ab2-98d0-680228ea5e6f | Cerebras | Software Engineer, Kernel Reliability | Sunnyvale, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f |
