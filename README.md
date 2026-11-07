@@ -142,6 +142,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | Req197990 | The Home Depot | Software Engineer 2 (Remote) | Atlanta, GA (Remote) | Workday | 2026-11-06 | Agent | Submitted | https://careers.homedepot.com/job/24114967/software-engineer-2-remote-remote/ |
 | ml-infra-engineer | DocVerify | ML Infrastructure Engineer | Remote US | Company own form | 2026-11-07 | Agent | Submitted | https://docverify.app/careers/ml-infra-engineer |
 | 5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1 | Clay | Software Engineer, Applied AI | New York, NY | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1 |
+| 26f79b07-2ffc-44a3-9d92-36111d18fb34 | 42dot | Software Integration Engineer, Autonomy | Sunnyvale, CA | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/42dot/26f79b07-2ffc-44a3-9d92-36111d18fb34 |
 
 ## Do not re-apply — outcome uncertain
 
