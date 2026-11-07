@@ -118,6 +118,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 744000159724018 | NBCUniversal | Jr. Software Engineer | Universal City, CA | SmartRecruiters | 2026-11-04 | Agent | Submitted | https://jobs.smartrecruiters.com/NBCUniversal3/744000159724018-jr-software-engineer |
 | V9u3fTjcNX | Foundation AI | Software Engineer | New York, NY | JazzHR | 2026-11-04 | Agent | Submitted | https://foundationai.applytojob.com/apply/V9u3fTjcNX/Software-Engineer |
 | 8346858 | Qualtrics | Software Engineer II - Reporting Platform | Seattle, WA | Qualtrics Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8346858/Software-Engineer-II-Reporting-Platform |
+| 8357630 | Qualtrics | Software Engineer II - Discover Studio | Reston, VA | Qualtrics Careers (Phenom) | 2026-11-06 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8357630/Software-Engineer-II-Discover-Studio |
 
 | 4146862009 | Machinify | AI Engineer - Agentic Systems | Remote, US | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 |
 
