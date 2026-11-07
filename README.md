@@ -218,3 +218,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8197230003 | Abnormal Security | Software Engineer II, Attack Detection | Remote, United States | Greenhouse | 2026-11-06 | Agent | Submitted | https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 |
 | R00152672 | AbbVie | Associate Software Engineer I | North Chicago, IL | SmartRecruiters | 2026-11-06 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-software-engineer-i-in-north-chicago-il-jid-35564 |
 | ffba9bbf-2576-4f3a-b883-c1ef083811da | Blossom Health | Software Engineer | New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da |
+| 8046374003 | Engine | Software Engineer - GTM Engineering | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/engine/jobs/8046374003 |
