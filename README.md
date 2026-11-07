@@ -139,6 +139,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 9f17378e-635a-4d92-9941-e38363afab4f | Superhuman | Software Engineer, Back-End - Go (NY) | New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://superhuman.com/company/careers/jobs?ashby_jid=9f17378e-635a-4d92-9941-e38363afab4f |
 
+| Req197990 | The Home Depot | Software Engineer 2 (Remote) | Atlanta, GA (Remote) | Workday | 2026-11-06 | Agent | Submitted | https://careers.homedepot.com/job/24114967/software-engineer-2-remote-remote/ |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
