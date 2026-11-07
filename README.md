@@ -135,6 +135,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | cdc94bca-8872-4a65-83c0-dae30bdddaa6 | Mintive | Software Engineer | San Mateo, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/Mintive/cdc94bca-8872-4a65-83c0-dae30bdddaa6/application |
 
+| R31442 | Chewy | Software Engineer I, Full Stack, Promotions | Boston, MA | Phenom (Chewy own form) | 2026-11-06 | Agent | Submitted | https://careers.chewy.com/us/en/job/CHINUSR31442EXTERNALENUS/Software-Engineer-I-Full-Stack-Promotions |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
