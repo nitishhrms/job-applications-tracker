@@ -133,6 +133,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5019821101 | ASM International | Software Engineer - Early Career | Phoenix, AZ | Greenhouse | 2026-11-06 | Agent | Submitted | https://www.asm.com/open-vacancies/software-engineer-early-career-5019821101?gh_jid=5019821101 |
 | R31431 | Chewy | Software Engineer I | Boston, MA / Plantation, FL | Phenom | 2026-11-06 | Agent | Submitted | https://careers.chewy.com/us/en/job/R31431/Software-Engineer-I |
 
+| cdc94bca-8872-4a65-83c0-dae30bdddaa6 | Mintive | Software Engineer | San Mateo, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/Mintive/cdc94bca-8872-4a65-83c0-dae30bdddaa6/application |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
