@@ -137,6 +137,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | R31442 | Chewy | Software Engineer I, Full Stack, Promotions | Boston, MA | Phenom (Chewy own form) | 2026-11-06 | Agent | Submitted | https://careers.chewy.com/us/en/job/CHINUSR31442EXTERNALENUS/Software-Engineer-I-Full-Stack-Promotions |
 
+| 9f17378e-635a-4d92-9941-e38363afab4f | Superhuman | Software Engineer, Back-End - Go (NY) | New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://superhuman.com/company/careers/jobs?ashby_jid=9f17378e-635a-4d92-9941-e38363afab4f |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
