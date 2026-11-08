@@ -224,3 +224,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | R00152672 | AbbVie | Associate Software Engineer I | North Chicago, IL | SmartRecruiters | 2026-11-06 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-software-engineer-i-in-north-chicago-il-jid-35564 |
 | ffba9bbf-2576-4f3a-b883-c1ef083811da | Blossom Health | Software Engineer | New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/Blossom-Health/ffba9bbf-2576-4f3a-b883-c1ef083811da |
 | 8046374003 | Engine | Software Engineer - GTM Engineering | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/engine/jobs/8046374003 |
+| 01f7453c-0f8f-456a-9182-3fe539ffec41 | Plaud Inc. | Machine Learning Engineer, Inference & Serving (Speech LLM) | San Francisco, CA | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/plaud/01f7453c-0f8f-456a-9182-3fe539ffec41 |
