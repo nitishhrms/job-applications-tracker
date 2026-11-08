@@ -146,6 +146,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | JB0075857 | ServiceNow | Software Engineer | Santa Clara, CA | SmartRecruiters | 2026-11-07 | Agent | Submitted | https://careers.servicenow.com/jobs/744000160263310/software-engineer/ |
 | 129325ce-77e6-4d2a-a24a-6726acb53749 | Applied Intuition | Machine Learning Engineer, Behavior and Planning | Sunnyvale, CA | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749 |
 | ed14bfa6-4738-468c-8d13-5c83a5c51d27 | Blossom Health | Applied AI Engineer | New York, NY | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/blossom-health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 |
+| 17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f |
 
 ## Do not re-apply — outcome uncertain
 
