@@ -220,6 +220,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | REQ19397 | Cotality | Software Engineer | Dallas, TX | Workday | 2026-11-06 | Agent | Submitted | https://cotality.wd115.myworkdayjobs.com/en-US/Global/details/Software-Engineer_REQ19397 |
 | 8359784 | Tanium | Software Engineer II, AI Security | Durham, NC | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/tanium/jobs/8359784 |
 | 8196112003 | Affirm | Software Engineer II, Backend | Remote, United States | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8196112003 |
+| 8003016003 | Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote, United States | Greenhouse | 2026-11-08 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8003016003 |
 | 6fc25168-bc4c-47a0-8601-583dfaf7fcbd | OpenAI | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | San Francisco, CA / New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd |
 | 8197230003 | Abnormal Security | Software Engineer II, Attack Detection | Remote, United States | Greenhouse | 2026-11-06 | Agent | Submitted | https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003 |
 | R00152672 | AbbVie | Associate Software Engineer I | North Chicago, IL | SmartRecruiters | 2026-11-06 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-software-engineer-i-in-north-chicago-il-jid-35564 |
