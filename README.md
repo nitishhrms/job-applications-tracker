@@ -148,6 +148,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | ed14bfa6-4738-468c-8d13-5c83a5c51d27 | Blossom Health | Applied AI Engineer | New York, NY | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/blossom-health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 |
 | 17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f |
 | 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
+| 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
 
 ## Do not re-apply — outcome uncertain
 
