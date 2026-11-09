@@ -164,6 +164,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
 |---|---|---|---|---|---|---|
+| R172085 | Adobe | 2027 University Graduate - Machine Learning Engineer | San Francisco, CA | Adobe Careers (own form) | 2026-11-09 | Adobe system reports ALREADY APPLIED (candidate C7423729) — do NOT apply again; application pre-dates this run, date unknown. |
 | R2632617 | Applied Materials | Algorithm Developer | Santa Clara, CA | Eightfold | 2026-10-31 | Submission outcome UNCERTAIN (conflicting run records, no confirmation email). Do NOT apply again until the status is verified. |
 | R-434028 | Humana | AI Engineer | Louisville, KY | Phenom / Workday (careers.humana.com) | 2026-10-31 | Agent | Submitted | https://careers.humana.com/us/en/job/R-434028/AI-Engineer |
 | 7675860003 | New Relic | Associate Software Engineer - Java | Portland, OR | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/newrelic/jobs/7675860003 |
