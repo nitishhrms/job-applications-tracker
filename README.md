@@ -224,7 +224,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8359784 | Tanium | Software Engineer II, AI Security | Durham, NC | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/tanium/jobs/8359784 |
 | 8196112003 | Affirm | Software Engineer II, Backend | Remote, United States | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8196112003 |
 | 8003016003 | Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote, United States | Greenhouse | 2026-11-08 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8003016003 |
-| R252 | Modular (Qualcomm) | AI Framework Engineer | Los Altos, CA | Company form (Gem) | 2026-11-08 | Agent | Submitted | https://www.modular.com/company/career-post?am9icG9zdDpWmIXCD7w2C-4PmHPfG7A2 |
+| R252 | Modular (Qualcomm) | AI Framework Engineer | Los Altos, CA | Company form (Gem) | 2026-11-08 | Agent | Submitted (rejected 2026-11-09) | https://www.modular.com/company/career-post?am9icG9zdDpWmIXCD7w2C-4PmHPfG7A2 |
 | 8ff8145e-8040-4a7a-a90c-cc1fdc36deb1 | Ande | Software Engineer, AI (Early Career) | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1 |
 | efa58c03-377d-4f72-92e0-f94b1e19a4d2 | Strala | Forward Deployed Engineer | San Francisco, CA | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/strala-ai/efa58c03-377d-4f72-92e0-f94b1e19a4d2 |
 | 6fc25168-bc4c-47a0-8601-583dfaf7fcbd | OpenAI | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | San Francisco, CA / New York, NY | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd |
