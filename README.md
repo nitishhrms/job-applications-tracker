@@ -153,6 +153,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 |
 | 90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 |
 | 6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 | Wayve | Full Stack Software Engineer, Evaluation Tools | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 |
+| a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 | WHOOP | Software Engineer II (Backend, AI Experiences & AI Platform) | Boston, MA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 |
 
 ## Do not re-apply — outcome uncertain
 
