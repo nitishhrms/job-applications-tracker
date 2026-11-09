@@ -47,6 +47,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 35813150-a851-4821-b732-a037b4e6c4fe | ElevenLabs | Full-Stack Engineer (Backend Leaning) - Creative Agents | Remote, United States | Ashby | 2026-11-03 | Agent | Submitted | https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe/application |
 | 4136356008 | Skild AI | Software Engineer, AI Training and Infrastructure | San Mateo, CA | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/skildai-careers/jobs/4136356008 |
 | 374cd009-516f-4a1f-abbf-bcca5287daae | Mercor | Software Engineer, Systems & Platform Applied AI | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae |
+| 4436581009 | Astronics | Software Engineer II (Applications) | Waukegan, IL | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/astronicscorporation/jobs/4436581009 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
