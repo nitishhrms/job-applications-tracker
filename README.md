@@ -149,6 +149,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f |
 | 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
 | 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
+| 06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 |
 
 ## Do not re-apply — outcome uncertain
 
