@@ -158,6 +158,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 | Wayve | Full Stack Software Engineer, Evaluation Tools | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 |
 | a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 | WHOOP | Software Engineer II (Backend, AI Experiences & AI Platform) | Boston, MA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 |
 | 744000160288699 | Versant Media | Software Engineer | Englewood Cliffs, NJ | SmartRecruiters | 2026-11-09 | Agent | Submitted | https://jobs.smartrecruiters.com/Versant3/744000160288699-software-engineer |
+| 47a2afc4-1075-4378-83bb-714543b6c272 | Fieldguide | Software Engineer (All Levels) | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/fieldguide/47a2afc4-1075-4378-83bb-714543b6c272 |
 
 ## Do not re-apply — outcome uncertain
 
