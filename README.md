@@ -235,3 +235,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 01f7453c-0f8f-456a-9182-3fe539ffec41 | Plaud Inc. | Machine Learning Engineer, Inference & Serving (Speech LLM) | San Francisco, CA | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/plaud/01f7453c-0f8f-456a-9182-3fe539ffec41 |
 | 466c3648-fc4e-427d-a66f-ab67576fad69 | Mirage | Software Engineer, AI Developer Platform | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 |
 | 794a57cc-daf6-4636-b295-81e892418414 | Mirage | Software Engineer, Backend | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414 |
+| e812e12d-465b-4dfa-90b1-085ac29ab848 | Mirage | Software Engineer, Agents | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848 |
