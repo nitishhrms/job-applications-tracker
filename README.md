@@ -48,6 +48,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4136356008 | Skild AI | Software Engineer, AI Training and Infrastructure | San Mateo, CA | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/skildai-careers/jobs/4136356008 |
 | 374cd009-516f-4a1f-abbf-bcca5287daae | Mercor | Software Engineer, Systems & Platform Applied AI | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae |
 | 4436581009 | Astronics | Software Engineer II (Applications) | Waukegan, IL | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/astronicscorporation/jobs/4436581009 |
+| 4750006005 | SolarWinds | Software Engineer | Austin, TX | Greenhouse | 2026-11-09 | Agent | Submitted | https://jobs.solarwinds.com/job-detail/?gh_jid=4750006005 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
