@@ -175,6 +175,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | software-engineer-pretraining-data (no ID published; URL slug) | Anysphere | Software Engineer, Pretraining Data | Palo Alto, CA | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-pretraining-data |
 | software-engineer-research-tooling (no ID published; URL slug) | Anysphere | Software Engineer, Research Tooling | Palo Alto, CA | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-research-tooling |
 | software-engineer-services-platform (no ID published; URL slug) | Anysphere | Software Engineer, Services Platform | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-services-platform |
+| 4728573006 | OccuNet | AI Developer - Agentic AI & Enterprise Solutions (On-Site or Remote) | Amarillo, TX | Greenhouse | 2026-11-10 | Agent | Submitted | https://job-boards.greenhouse.io/theoccunetcompany/jobs/4728573006 |
 
 ## Do not re-apply — outcome uncertain
 
