@@ -161,6 +161,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 47a2afc4-1075-4378-83bb-714543b6c272 | Fieldguide | Software Engineer (All Levels) | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/fieldguide/47a2afc4-1075-4378-83bb-714543b6c272 |
 | 200063546 | Microsoft | Software Engineer II | Redmond, WA | Microsoft own form (Eightfold) | 2026-11-09 | Agent | Submitted | https://apply.careers.microsoft.com/careers?query=SPARTANs&start=0&location=Redmond%2C+Washington&pid=1970393557045942&sort_by=relevance&filter_distance=160&filter_include_remote=1&filter_include_relocation=0 |
 
+| 8899479002 | Atoms | Back-End Engineer, Fleet Management | San Francisco, CA | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/atoms/jobs/8899479002 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
