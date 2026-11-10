@@ -252,3 +252,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 466c3648-fc4e-427d-a66f-ab67576fad69 | Mirage | Software Engineer, AI Developer Platform | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/466c3648-fc4e-427d-a66f-ab67576fad69 |
 | 794a57cc-daf6-4636-b295-81e892418414 | Mirage | Software Engineer, Backend | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414 |
 | e812e12d-465b-4dfa-90b1-085ac29ab848 | Mirage | Software Engineer, Agents | New York, NY | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848 |
+| 24DBCDDF27 | Multi Media | Software Engineer I/II | Remote, US | Workable | 2026-11-09 | Agent | Submitted | https://apply.workable.com/multimediallc/j/24DBCDDF27/ |
