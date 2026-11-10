@@ -163,6 +163,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | 8899479002 | Atoms | Back-End Engineer, Fleet Management | San Francisco, CA | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/atoms/jobs/8899479002 |
 
+| d31312c2-236a-45f1-8da7-61a7ca8d1622 | WHOOP | Software Engineer I (Backend, Growth) | Boston, MA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622 |
+
 ## Do not re-apply — outcome uncertain
 
 | Job ID | Company | Title | Location | Platform | Date | Note |
