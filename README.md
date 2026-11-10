@@ -170,6 +170,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | software-engineer-billing (no ID published; URL slug) | Anysphere | Software Engineer, Billing | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-billing |
 | software-engineer-model-lifecycle-and-signals (no ID published; URL slug) | Anysphere | Software Engineer, Model Lifecycle and Signals | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-model-lifecycle-and-signals |
 | software-engineer-bugbot (no ID published; URL slug) | Anysphere | Software Engineer, Bugbot | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-bugbot |
+| software-engineer-developer-productivity (no ID published; URL slug) | Anysphere | Software Engineer, Developer Productivity | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-developer-productivity |
 
 ## Do not re-apply — outcome uncertain
 
