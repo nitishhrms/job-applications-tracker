@@ -164,6 +164,11 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8899479002 | Atoms | Back-End Engineer, Fleet Management | San Francisco, CA | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/atoms/jobs/8899479002 |
 
 | d31312c2-236a-45f1-8da7-61a7ca8d1622 | WHOOP | Software Engineer I (Backend, Growth) | Boston, MA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622 |
+| software-engineer-enterprise (no ID published; URL slug) | Anysphere | Software Engineer, Enterprise | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-enterprise |
+| software-engineer-core-services (no ID published; URL slug) | Anysphere | Software Engineer, Core Services | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-core-services |
+| software-engineer-enterprise-platform (no ID published; URL slug) | Anysphere | Software Engineer, Enterprise Platform | San Francisco, CA | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-enterprise-platform |
+| software-engineer-billing (no ID published; URL slug) | Anysphere | Software Engineer, Billing | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-billing |
+| software-engineer-model-lifecycle-and-signals (no ID published; URL slug) | Anysphere | Software Engineer, Model Lifecycle and Signals | San Francisco, CA / New York, NY | Company form (cursor.com) | 2026-11-10 | Agent | Submitted | https://cursor.com/careers/software-engineer-model-lifecycle-and-signals |
 
 ## Do not re-apply — outcome uncertain
 
