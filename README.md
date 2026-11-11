@@ -179,6 +179,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8923519002 | Flagship Pioneering | Engineer, Software Engineering | Cambridge, MA | Greenhouse | 2026-11-10 | Agent | Submitted | https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8923519002 |
 | c9482147-5f04-45c1-85b1-40a2a8e6f0e4 | Nascent | Applied ML Engineer - Model R&D | Remote - United States | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/nascent/c9482147-5f04-45c1-85b1-40a2a8e6f0e4 |
 | 555aac85-9640-4c91-af92-a16887f4c705 | People Culture Talent | Software Engineer – ML Infrastructure | San Francisco, CA | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 |
+| TW9323 / 8934067002 | Twitch | Software Engineer I, Commerce | San Francisco, CA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8934067002 |
 
 ## Do not re-apply — outcome uncertain
 
