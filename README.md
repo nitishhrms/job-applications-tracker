@@ -271,3 +271,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | f9055979-9c2d-4b5d-a0ec-f248205b1d16 | AfterQuery | Software Engineer - Platform / Applied AI (Full-Stack) | San Francisco, CA | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/AfterQuery/f9055979-9c2d-4b5d-a0ec-f248205b1d16 |
 | e0627160-8e3e-49ea-9d77-dd875ffc025f | US Claro | AI Engineer | Miramar, FL (Remote) | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/USClaro/e0627160-8e3e-49ea-9d77-dd875ffc025f |
 | 6248674004 | Agility Robotics | AI Research Engineer III | Pittsburgh, PA | Greenhouse | 2026-11-10 | Agent | Submitted | https://www.agilityrobotics.com/about/job-post?gh_jid=6248674004 |
+| 33542d09-27af-4dd6-b8b2-8cdd93964ab0 | Clera | Full-Stack Engineer | New York, NY | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/clera/33542d09-27af-4dd6-b8b2-8cdd93964ab0 |
