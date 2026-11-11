@@ -275,3 +275,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 33542d09-27af-4dd6-b8b2-8cdd93964ab0 | Clera | Full-Stack Engineer | New York, NY | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/clera/33542d09-27af-4dd6-b8b2-8cdd93964ab0 |
 | 41c12538-9543-4a0b-a84f-034f4cb2db9a | Eloquent AI | AI Engineer, Multimodal LLMs | San Francisco, CA | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/eloquentai/41c12538-9543-4a0b-a84f-034f4cb2db9a |
 | 3e3934a8-ef1e-47bc-84a9-9807b01bc666 | Commure | Software Engineer, Autonomous Revenue Operations | Mountain View, CA | Ashby | 2026-11-10 | Agent | Submitted | https://www.commure.com/careers?ashby_jid=3e3934a8-ef1e-47bc-84a9-9807b01bc666 |
+| e58e6bae-73bb-47e1-ba80-c0a3f51c048b | Coframe | Machine Learning Engineer | San Francisco Bay Area, CA | Ashby | 2026-11-10 | Agent | Submitted | https://jobs.ashbyhq.com/Coframe/e58e6bae-73bb-47e1-ba80-c0a3f51c048b |
