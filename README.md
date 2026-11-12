@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| A141003 | TikTok USDS Joint Venture | Software Engineer, AI Data Application | San Jose, CA | LinkedIn Easy Apply | 2026-11-12 | Agent | Submitted | https://www.linkedin.com/jobs/view/4490080475/ |
 | 89075202 | Ladders | Machine Learning Engineer | United States (Remote) | Ladders Apply4Me | 2026-11-12 | Agent | Submitted | https://www.theladders.com/apply4me-questionnaire?jobLocationId=89075202&source=linkedin&step=1 |
 | c27f2903-133c-4f4e-8c44-b302223ff23d | Pramaana Labs | Software Engineer, Full-Stack ML Infrastructure | Palo Alto, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/pramaana-labs/c27f2903-133c-4f4e-8c44-b302223ff23d |
 | R8496 | Symbotic | Robotics Software Engineer New Grad | Wilmington, MA | Workday | 2026-11-11 | Agent | Submitted | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 |
