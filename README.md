@@ -198,6 +198,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 3400f3f7-331b-4711-b7a4-b3bbf6280a51 | Clera | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/3400f3f7-331b-4711-b7a4-b3bbf6280a51 |
 | 8939697002 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/spacex/jobs/8939697002 |
 | TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
+| JR368047 | Salesforce | Software Engineering AMTS (College Grad) | San Francisco, CA | Workday | 2026-11-12 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 |
 
 ## Do not re-apply — outcome uncertain
 
