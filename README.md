@@ -196,6 +196,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 294e293c-d24d-4d3d-986f-25407483f9aa | Clera | Product Engineer | New York, NY | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/294e293c-d24d-4d3d-986f-25407483f9aa |
 | 3400f3f7-331b-4711-b7a4-b3bbf6280a51 | Clera | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/3400f3f7-331b-4711-b7a4-b3bbf6280a51 |
 | 8939697002 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/spacex/jobs/8939697002 |
+| TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
 
 ## Do not re-apply — outcome uncertain
 
