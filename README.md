@@ -12,6 +12,9 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4729032006 | Echodyne | Front-End Engineer II | Kirkland, WA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/echodynecorp/jobs/4729032006 |
 | 6253670004 | Jamf | Associate Software Engineer | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004 |
 | 6254227004 | Jamf | Associate Software Engineer (Full Stack) | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004 |
+| 4753183005 | Flowcode | Applied AI Engineer: Product & Experience | New York, NY | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/flowcode/jobs/4753183005 |
+| 4753182005 | Flowcode | Applied AI Engineer: Solutions & Infrastructure | New York, NY | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/flowcode/jobs/4753182005 |
+| 49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e | Kalshi | Software Engineer, Marketing | New York, NY | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e |
 | 5bd49d48-7a84-478f-82de-6d302c705613 | Voleon Group | Software Engineer, Platform Team | Berkeley, CA / Remote US | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613 |
 | 29931bc1-508f-4b41-ad6a-aab97e4d8958 | Whoop | Software Engineer II, Fullstack Business Systems | Boston, MA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/29931bc1-508f-4b41-ad6a-aab97e4d8958 |
 | 7e75a1a6-1884-4772-86c2-2ea4d6a7a08d | Harvey | Research Engineer / Scientist, Data & Evals | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d/application |
