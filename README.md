@@ -108,7 +108,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8746698002 | Fieldwire by Hilti | AI/ML Engineer | San Francisco, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.fieldwire.com/job/8746698002/ |
 | 893869 | Motion Recruitment | Software AI Engineer / Robotics | Brooklyn, NY | Motion Recruitment | 2026-11-02 | Agent | Submitted | https://motionrecruitment.com/tech-jobs/brooklyn/direct-hire/software-ai-engineer-robotics-brooklyn/893869 |
 | 9eba8322-0e81-42db-9dcb-81ddcc7c907a | Method Financial | Software Engineer | New York, NY / Austin, TX / Washington, DC | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a |
-| 5279677007 | Esri | C/C++ Software Development Engineer II - Data Management | Redlands, CA | Greenhouse (Esri careers) | 2026-11-02 | Agent | Submitted | https://www.esri.com/careers/5279677007?title=c-cplusplus-software-development-engineer-ii-data-management&gh_jid=5279677007 |
+| 5279677007 | Esri | C/C++ Software Development Engineer II - Data Management | Redlands, CA | Greenhouse (Esri careers) | 2026-11-02 | Agent | Rejected 2026-11-10 | https://www.esri.com/careers/5279677007?title=c-cplusplus-software-development-engineer-ii-data-management&gh_jid=5279677007 |
 | d8925f84-562f-470c-a5bd-4f6c20009361 | Ramp | Research Engineer, Benchmarks & Evaluation | New York, NY / San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361 |
 | 2028006 | Cisco | Software Engineer | San Jose, CA | Cisco Careers (Phenom / Workday) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/job/2028006/Software-Engineer |
 | 2028784 | Cisco | Software Engineer Full Stack / Backend I (Full Time) - United States | United States (incl. Philadelphia, PA / Charleston, WV / Nashville, TN) | Cisco Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://careers.cisco.com/global/en/job/2028784/Software-Engineer-Full-Stack-Backend-I-Full-Time-United-States |
@@ -143,7 +143,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 783704d7-5afa-45aa-899b-1d6799f73004 | OpenAI | Software Engineer, Agent Platform | San Francisco, CA / New York, NY | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004/application |
 | 8356571 | DiDi Global | Machine Learning Engineer - Agentic AI | San Jose, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.greenhouse.io/didi/jobs/8356571 |
 
-| 5014076101 | StubHub | Software Engineer II - Seller Experience | Aliso Viejo, CA | Greenhouse | 2026-11-05 | Agent | Submitted | https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101 |
+| 5014076101 | StubHub | Software Engineer II - Seller Experience | Aliso Viejo, CA | Greenhouse | 2026-11-05 | Agent | Rejected 2026-11-10 | https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5014076101 |
 | JR1000135 | Postman | Frontier AI Engineer | Remote, WA, US | Workday | 2026-11-05 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/Remote-WA-US/Frontier-AI-Engineer_JR1000135 |
 | 5019821101 | ASM International | Software Engineer - Early Career | Phoenix, AZ | Greenhouse | 2026-11-06 | Agent | Submitted | https://www.asm.com/open-vacancies/software-engineer-early-career-5019821101?gh_jid=5019821101 |
 | R31431 | Chewy | Software Engineer I | Boston, MA / Plantation, FL | Phenom | 2026-11-06 | Agent | Submitted | https://careers.chewy.com/us/en/job/R31431/Software-Engineer-I |
@@ -162,7 +162,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 129325ce-77e6-4d2a-a24a-6726acb53749 | Applied Intuition | Machine Learning Engineer, Behavior and Planning | Sunnyvale, CA | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749 |
 | ed14bfa6-4738-468c-8d13-5c83a5c51d27 | Blossom Health | Applied AI Engineer | New York, NY | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/blossom-health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 |
 | 17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f |
-| 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
+| 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-11 | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
 | 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
 | 06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 |
 | 90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 |
@@ -207,7 +207,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8328365 | DRW | Software Engineer - Trading Operations | Chicago, IL | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/drweng/jobs/8328365 |
 | 2024462 | Cisco | Software Engineer (Back-end) | Seattle, WA | Cisco Careers (Phenom) | 2026-11-02 | Agent | Submitted | https://careers.cisco.com/global/en/job/2024462/Software-Engineer-Back-end |
 | 8334245 | Qualtrics | Software Development Engineer I - Data Platform | Seattle, WA | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245 |
-| 8111434003 | 2K | Server Engineer - NBA 2K | Irvine, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/2k/jobs/8111434003 |
+| 8111434003 | 2K | Server Engineer - NBA 2K | Irvine, CA | Greenhouse | 2026-11-02 | Agent | Rejected 2026-11-10 | https://job-boards.greenhouse.io/2k/jobs/8111434003 |
 | 2642339 | KLA | Software Engineer | Milpitas, CA | Workday | 2026-11-02 | Agent | Submitted | https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer_2642339-1 |
 | 8337444 | Reddit | Software Engineer, Infrastructure Engineering | Remote - United States | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/reddit/jobs/8337444 |
 | 48bab48f-c708-40b6-ac2c-36bb704287b3 | Applied Intuition | Software Engineer (Sunnyvale, CA) | Sunnyvale, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3 |
@@ -260,7 +260,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 90879967-1071-4d05-9180-6e18023ed887 | Cerebras | AI Inference Core - Software Integration Engineer | Sunnyvale, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887 |
 | 8932903002 | PathAI | Software Engineer II, Fullstack | Boston, MA | Greenhouse | 2026-11-05 | Agent | Submitted | https://www.pathai.com/career/job-post?gh_jid=8932903002 |
 | 8cb78937-ac30-4ab2-98d0-680228ea5e6f | Cerebras | Software Engineer, Kernel Reliability | Sunnyvale, CA | Ashby | 2026-11-06 | Agent | Submitted | https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f |
-| 8236612 | Pindrop | Software Engineer II (Authentication) | Remote, US | Greenhouse | 2026-11-06 | Agent | Submitted | https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612 |
+| 8236612 | Pindrop | Software Engineer II (Authentication) | Remote, US | Greenhouse | 2026-11-06 | Agent | Rejected 2026-11-10 | https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612 |
 | 101075 | Nationwide | Engineer, Software Engineer | Des Moines, IA | Workday | 2026-11-06 | Agent | Submitted | https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075 |
 | 4673650101 | IMC Trading | C++ Software Engineer | Chicago, IL / New York, NY | Company own form | 2026-11-06 | Agent | Submitted | https://www.imc.com/us/careers/jobs/4673650101 |
 | REQ19397 | Cotality | Software Engineer | Dallas, TX | Workday | 2026-11-06 | Agent | Submitted | https://cotality.wd115.myworkdayjobs.com/en-US/Global/details/Software-Engineer_REQ19397 |
