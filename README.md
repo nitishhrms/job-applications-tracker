@@ -191,6 +191,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | c9482147-5f04-45c1-85b1-40a2a8e6f0e4 | Nascent | Applied ML Engineer - Model R&D | Remote - United States | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/nascent/c9482147-5f04-45c1-85b1-40a2a8e6f0e4 |
 | 555aac85-9640-4c91-af92-a16887f4c705 | People Culture Talent | Software Engineer – ML Infrastructure | San Francisco, CA | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705 |
 | TW9323 / 8934067002 | Twitch | Software Engineer I, Commerce | San Francisco, CA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8934067002 |
+| 294e293c-d24d-4d3d-986f-25407483f9aa | Clera | Product Engineer | New York, NY | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/294e293c-d24d-4d3d-986f-25407483f9aa |
+| 3400f3f7-331b-4711-b7a4-b3bbf6280a51 | Clera | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/3400f3f7-331b-4711-b7a4-b3bbf6280a51 |
 
 ## Do not re-apply — outcome uncertain
 
