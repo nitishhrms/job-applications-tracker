@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8199437003 | Klaviyo | Software Engineer II - Flows Experience | Boston, MA | Greenhouse | 2026-11-12 | Agent | Submitted | https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 |
 | 5480801008 | Cresta | AI Agent Evaluation Engineer | United States (Remote) | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/cresta/jobs/5480801008 |
 | 8939938002 | Brex | Software Engineer II, Frontend (Banking) | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://www.brex.com/careers/8939938002 |
 | 8250447 | Tanium | Software Engineer II - Partner Integrations | Durham, NC | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/tanium/jobs/8250447 |
