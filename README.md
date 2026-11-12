@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| R8496 | Symbotic | Robotics Software Engineer New Grad | Wilmington, MA | Workday | 2026-11-11 | Agent | Submitted | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 |
 | 4729032006 | Echodyne | Front-End Engineer II | Kirkland, WA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/echodynecorp/jobs/4729032006 |
 | 6253670004 | Jamf | Associate Software Engineer | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004 |
 | 6254227004 | Jamf | Associate Software Engineer (Full Stack) | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004 |
