@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8250447 | Tanium | Software Engineer II - Partner Integrations | Durham, NC | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/tanium/jobs/8250447 |
 | ai | matcha.fm | Founding AI Engineer (ML/Data) | United States (Remote) | Company form | 2026-11-12 | Agent | Submitted | https://matcha.fm/apply/ai |
 | A141003 | TikTok USDS Joint Venture | Software Engineer, AI Data Application | San Jose, CA | LinkedIn Easy Apply | 2026-11-12 | Agent | Submitted | https://www.linkedin.com/jobs/view/4490080475/ |
 | 89075202 | Ladders | Machine Learning Engineer | United States (Remote) | Ladders Apply4Me | 2026-11-12 | Agent | Submitted | https://www.theladders.com/apply4me-questionnaire?jobLocationId=89075202&source=linkedin&step=1 |
