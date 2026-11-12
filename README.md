@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 6254227004 | Jamf | Associate Software Engineer (Full Stack) | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004 |
 | 5bd49d48-7a84-478f-82de-6d302c705613 | Voleon Group | Software Engineer, Platform Team | Berkeley, CA / Remote US | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613 |
 | 29931bc1-508f-4b41-ad6a-aab97e4d8958 | Whoop | Software Engineer II, Fullstack Business Systems | Boston, MA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/29931bc1-508f-4b41-ad6a-aab97e4d8958 |
 | 7e75a1a6-1884-4772-86c2-2ea4d6a7a08d | Harvey | Research Engineer / Scientist, Data & Evals | San Francisco, CA | Ashby | 2026-10-30 | Agent | Submitted | https://jobs.ashbyhq.com/harvey/7e75a1a6-1884-4772-86c2-2ea4d6a7a08d/application |
