@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 139205347142181574 | Google | Software Engineer, Geo, Computer Vision | Mountain View, CA | Google Careers (company own form) | 2026-11-13 | Agent | Submitted | https://www.google.com/about/careers/applications/jobs/results/139205347142181574-software-engineer-geo-computer-vision |
 | REQ21465 | Snowflake | Software Engineer, Identity & Access Management | Bellevue, WA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536 |
 | eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6 | Harnham (TaskVerse listing) | Machine Learning Engineer | Remote, United States | Harnham own form | 2026-11-12 | Agent | Submitted | https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-usa/ |
 | 8196352003 | Abnormal Security | Software Engineer I, Data Platforms | Remote, United States | Greenhouse | 2026-11-12 | Agent | Submitted | https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 |
