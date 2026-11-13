@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 10567489 | Amazon | Software Development Engineer, ROBOTICS, Early Career - 2027 | Austin, TX | Amazon Jobs | 2026-11-13 | Self | Submitted (user-directed; 48-hour freshness rule overridden for this role only) | https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027 |
 | 139205347142181574 | Google | Software Engineer, Geo, Computer Vision | Mountain View, CA | Google Careers (company own form) | 2026-11-13 | Agent | Submitted | https://www.google.com/about/careers/applications/jobs/results/139205347142181574-software-engineer-geo-computer-vision |
 | REQ21465 | Snowflake | Software Engineer, Identity & Access Management | Bellevue, WA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536 |
 | eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6 | Harnham (TaskVerse listing) | Machine Learning Engineer | Remote, United States | Harnham own form | 2026-11-12 | Agent | Submitted | https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-usa/ |
@@ -22,8 +23,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | c27f2903-133c-4f4e-8c44-b302223ff23d | Pramaana Labs | Software Engineer, Full-Stack ML Infrastructure | Palo Alto, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/pramaana-labs/c27f2903-133c-4f4e-8c44-b302223ff23d |
 | R8496 | Symbotic | Robotics Software Engineer New Grad | Wilmington, MA | Workday | 2026-11-11 | Agent | Submitted | https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496 |
 | 4729032006 | Echodyne | Front-End Engineer II | Kirkland, WA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/echodynecorp/jobs/4729032006 |
-| 6253670004 | Jamf | Associate Software Engineer | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004 |
-| 6254227004 | Jamf | Associate Software Engineer (Full Stack) | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Submitted | https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004 |
+| 6253670004 | Jamf | Associate Software Engineer | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Rejected 2026-11-13 | https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004 |
+| 6254227004 | Jamf | Associate Software Engineer (Full Stack) | United States (Remote) | Greenhouse | 2026-11-11 | Agent | Rejected 2026-11-13 | https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004 |
 | 4753183005 | Flowcode | Applied AI Engineer: Product & Experience | New York, NY | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/flowcode/jobs/4753183005 |
 | 4753182005 | Flowcode | Applied AI Engineer: Solutions & Infrastructure | New York, NY | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/flowcode/jobs/4753182005 |
 | 49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e | Kalshi | Software Engineer, Marketing | New York, NY | Ashby | 2026-11-11 | Agent | Submitted | https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e |
@@ -128,7 +129,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4f2d9849-ad00-48d5-a22f-0cb943723999 | OpenAI | EDA Cloud & Developer Infrastructure Engineer | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999 |
 
 | 8347710 | Smartsheet | Software Engineer I (Remote Eligible) | United States (Remote) | Greenhouse | 2026-11-02 | Agent | Submitted | https://job-boards.greenhouse.io/smartsheet/jobs/8347710 |
-| 49063 | Paylocity | Associate Machine Learning Engineer | United States (Remote) | Paylocity (company own ATS) | 2026-11-02 | Agent | Submitted | https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49063 |
+| 49063 | Paylocity | Associate Machine Learning Engineer | United States (Remote) | Paylocity (company own ATS) | 2026-11-02 | Agent | Rejected 2026-11-12 (location needs mismatch) | https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49063 |
 | JR1000037 | Postman | Software Engineer - Fern | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 |
 
 | 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
@@ -177,7 +178,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-11 | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
 | 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
 | 06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 |
-| 90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 |
+| 90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-13 | https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 |
 | 6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 | Wayve | Full Stack Software Engineer, Evaluation Tools | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 |
 | a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 | WHOOP | Software Engineer II (Backend, AI Experiences & AI Platform) | Boston, MA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/whoop/a7a80da5-5fa5-44fb-8a7c-2ea141cabda8 |
 | 744000160288699 | Versant Media | Software Engineer | Englewood Cliffs, NJ | SmartRecruiters | 2026-11-09 | Agent | Submitted | https://jobs.smartrecruiters.com/Versant3/744000160288699-software-engineer |
@@ -205,8 +206,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | TW9323 / 8934067002 | Twitch | Software Engineer I, Commerce | San Francisco, CA | Greenhouse | 2026-11-11 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8934067002 |
 | 294e293c-d24d-4d3d-986f-25407483f9aa | Clera | Product Engineer | New York, NY | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/294e293c-d24d-4d3d-986f-25407483f9aa |
 | 3400f3f7-331b-4711-b7a4-b3bbf6280a51 | Clera | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/clera/3400f3f7-331b-4711-b7a4-b3bbf6280a51 |
-| 8939697002 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/spacex/jobs/8939697002 |
-| TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
+| 8939697002 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Greenhouse | 2026-11-12 | Agent | Rejected 2026-11-13 | https://job-boards.greenhouse.io/spacex/jobs/8939697002 |
+| TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Rejected 2026-11-13 | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
 | JR368047 | Salesforce | Software Engineering AMTS (College Grad) | San Francisco, CA | Workday | 2026-11-12 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 |
 
 ## Do not re-apply — outcome uncertain
