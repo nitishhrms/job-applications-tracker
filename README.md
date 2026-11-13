@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6 | Harnham (TaskVerse listing) | Machine Learning Engineer | Remote, United States | Harnham own form | 2026-11-12 | Agent | Submitted | https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-machine-learning-engineer-usa/ |
 | 8196352003 | Abnormal Security | Software Engineer I, Data Platforms | Remote, United States | Greenhouse | 2026-11-12 | Agent | Submitted | https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003 |
 | 8199437003 | Klaviyo | Software Engineer II - Flows Experience | Boston, MA | Greenhouse | 2026-11-12 | Agent | Submitted | https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003 |
 | 5480801008 | Cresta | AI Agent Evaluation Engineer | United States (Remote) | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/cresta/jobs/5480801008 |
