@@ -8,6 +8,12 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| d10d72c9-34ce-43dc-9e75-24a4b1941fcf | Astera | Software Engineer, Biomolecular Structure Software | Emeryville, CA | Ashby | 2026-11-13 | Agent | Submitted | — |
+| eb3c7369-7c47-4654-a151-8434430f0f38 | Clera | Product Engineer | San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/clera/eb3c7369-7c47-4654-a151-8434430f0f38 |
+| 0be09ea9-5068-496c-95a1-75a7c2b00f21 | Clera | Member of Technical Staff (MTS) | New York, NY | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/clera/0be09ea9-5068-496c-95a1-75a7c2b00f21 |
+| 8386065 | Airbnb | Software Engineer, Web | US | Greenhouse | 2026-11-13 | Agent | Submitted | — |
+| 277e3b4a-2e6b-4638-94b5-d65986f1bb14 | Superhuman | Software Engineer, Full-Stack Growth Platform | San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://superhuman.com/company/careers/jobs?ashby_jid=277e3b4a-2e6b-4638-94b5-d65986f1bb14 |
+| 8385978 | Cambridge Mobile Telematics (CMT) | Software Engineer I, Cloud | Cambridge, MA | Greenhouse | 2026-11-13 | Agent | Submitted | — |
 | 10567489 | Amazon | Software Development Engineer, ROBOTICS, Early Career - 2027 | Austin, TX | Amazon Jobs | 2026-11-13 | Self | Submitted (user-directed; 48-hour freshness rule overridden for this role only) | https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027 |
 | 139205347142181574 | Google | Software Engineer, Geo, Computer Vision | Mountain View, CA | Google Careers (company own form) | 2026-11-13 | Agent | Submitted | https://www.google.com/about/careers/applications/jobs/results/139205347142181574-software-engineer-geo-computer-vision |
 | REQ21465 | Snowflake | Software Engineer, Identity & Access Management | Bellevue, WA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536 |
