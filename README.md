@@ -215,6 +215,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8939697002 | SpaceX | New Graduate Engineer, Aerospace Software (Starfall) | Hawthorne, CA | Greenhouse | 2026-11-12 | Agent | Rejected 2026-11-13 | https://job-boards.greenhouse.io/spacex/jobs/8939697002 |
 | TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Rejected 2026-11-13 | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
 | JR368047 | Salesforce | Software Engineering AMTS (College Grad) | San Francisco, CA | Workday | 2026-11-12 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 |
+| a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | Kira | Software Engineer (Backend, Infrastructure Focus) | New York, NY / San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 |
 
 ## Do not re-apply — outcome uncertain
 
