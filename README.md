@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 4507787009 | Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | 2026-11-14 | Agent | Submitted | https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 |
 | 90ff39fb-c6de-4b6f-bef5-9012f0453daf | Wealthbox | Software Engineer | United States (Remote) | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/wealthbox/90ff39fb-c6de-4b6f-bef5-9012f0453daf |
 | d10d72c9-34ce-43dc-9e75-24a4b1941fcf | Astera | Software Engineer, Biomolecular Structure Software | Emeryville, CA | Ashby | 2026-11-13 | Agent | Submitted | — |
 | eb3c7369-7c47-4654-a151-8434430f0f38 | Clera | Product Engineer | San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/clera/eb3c7369-7c47-4654-a151-8434430f0f38 |
