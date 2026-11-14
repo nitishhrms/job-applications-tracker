@@ -218,6 +218,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | Kira | Software Engineer (Backend, Infrastructure Focus) | New York, NY / San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 |
 | ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | TensorWave | ML Engineer, Developer Ecosystem | Remote (Bay Area, CA) | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/tensorwave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 |
 | 6261926004 | EvolutionIQ | Software Engineer (AI Data Engineering) | New York, NY or Remote | Greenhouse | 2026-11-13 | Agent | Submitted | https://job-boards.greenhouse.io/evolutioniq/jobs/6261926004 |
+| TW9327 / 8943553002 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | 2026-11-13 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8943553002 |
 
 ## Do not re-apply — outcome uncertain
 
