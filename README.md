@@ -216,6 +216,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | TW9266 / 8937278002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | Greenhouse | 2026-11-12 | Agent | Rejected 2026-11-13 | https://job-boards.greenhouse.io/twitch/jobs/8937278002 |
 | JR368047 | Salesforce | Software Engineering AMTS (College Grad) | San Francisco, CA | Workday | 2026-11-12 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047 |
 | a9f0c04c-a091-426c-b0c1-0ec93d3ad824 | Kira | Software Engineer (Backend, Infrastructure Focus) | New York, NY / San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824 |
+| ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | TensorWave | ML Engineer, Developer Ecosystem | Remote (Bay Area, CA) | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/tensorwave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 |
+| 6261926004 | EvolutionIQ | Software Engineer (AI Data Engineering) | New York, NY or Remote | Greenhouse | 2026-11-13 | Agent | Submitted | https://job-boards.greenhouse.io/evolutioniq/jobs/6261926004 |
 
 ## Do not re-apply — outcome uncertain
 
