@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 5480108008 | Iovance Biotherapeutics | AI Product Engineer | Remote, United States | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5480108008 |
 | R26_00002986 | CDW Corporation | AI Software Consulting Engineer | Remote - USA | CDW careers (own form) | 2026-11-12 | Agent | Rejected 2026-11-14 (was outcome-unknown; rejection email confirms it was received) | https://www.cdwjobs.com/jobs/18478026-ai-software-consulting-engineer |
 | d5520ce5-bc5f-4947-8912-292615b0c5ac | Confido | Software Engineer | New York, NY | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/confido/d5520ce5-bc5f-4947-8912-292615b0c5ac |
 | 4507787009 | Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | 2026-11-14 | Agent | Submitted | https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 |
