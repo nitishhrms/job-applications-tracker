@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 5250979007 | HeyGen | Software Engineer, GPU Performance | Los Angeles, CA | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/heygen/jobs/5250979007 |
 | 2a58c588-e577-447b-9e48-be73a796415d | Arena | Machine Learning Engineer | SF Bay Area, CA | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d |
 | 5480108008 | Iovance Biotherapeutics | AI Product Engineer | Remote, United States | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5480108008 |
 | R26_00002986 | CDW Corporation | AI Software Consulting Engineer | Remote - USA | CDW careers (own form) | 2026-11-12 | Agent | Rejected 2026-11-14 (was outcome-unknown; rejection email confirms it was received) | https://www.cdwjobs.com/jobs/18478026-ai-software-consulting-engineer |
