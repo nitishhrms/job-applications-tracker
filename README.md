@@ -8,6 +8,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| R00148540 | AbbVie | Associate Full-Stack Software Engineer II | Mettawa, IL | SmartRecruiters | 2026-11-17 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-full-stack-software-engineer-ii-in-mettawa-il-jid-35978 |
+| 8948543002 | Atoms | Cloud Platform - ML Robotics Infra Engineer | Pittsburgh, PA | Greenhouse | 2026-11-17 | Agent | Submitted | https://atoms.co/openroles?job=8948543002 |
 | 5250979007 | HeyGen | Software Engineer, GPU Performance | Los Angeles, CA | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/heygen/jobs/5250979007 |
 | 2a58c588-e577-447b-9e48-be73a796415d | Arena | Machine Learning Engineer | SF Bay Area, CA | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d |
 | 5480108008 | Iovance Biotherapeutics | AI Product Engineer | Remote, United States | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5480108008 |
