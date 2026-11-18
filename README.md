@@ -89,6 +89,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4436581009 | Astronics | Software Engineer II (Applications) | Waukegan, IL | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/astronicscorporation/jobs/4436581009 |
 | 4750006005 | SolarWinds | Software Engineer | Austin, TX | Greenhouse | 2026-11-09 | Agent | Submitted | https://jobs.solarwinds.com/job-detail/?gh_jid=4750006005 |
 | d92f1ac9-1abb-448c-b039-22643d9bb8a7 | Kira | Software Engineer (Entry Level) | San Francisco, CA / New York, NY | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 |
+| 09d6d9f2-796f-4e82-9421-4a55f3fbe352 | Atlas | Web Engineer | San Francisco, CA | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/atlas/09d6d9f2-796f-4e82-9421-4a55f3fbe352 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
