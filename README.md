@@ -16,7 +16,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | R26_00002986 | CDW Corporation | AI Software Consulting Engineer | Remote - USA | CDW careers (own form) | 2026-11-12 | Agent | Rejected 2026-11-14 (was outcome-unknown; rejection email confirms it was received) | https://www.cdwjobs.com/jobs/18478026-ai-software-consulting-engineer |
 | d5520ce5-bc5f-4947-8912-292615b0c5ac | Confido | Software Engineer | New York, NY | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/confido/d5520ce5-bc5f-4947-8912-292615b0c5ac |
 | 4507787009 | Integrated Biosciences | Software Engineer, Robotics | Redwood City, CA | Greenhouse | 2026-11-14 | Agent | Submitted | https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009 |
-| 90ff39fb-c6de-4b6f-bef5-9012f0453daf | Wealthbox | Software Engineer | United States (Remote) | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/wealthbox/90ff39fb-c6de-4b6f-bef5-9012f0453daf |
+| 90ff39fb-c6de-4b6f-bef5-9012f0453daf | Wealthbox | Software Engineer | United States (Remote) | Ashby | 2026-11-13 | Agent | Rejected | https://jobs.ashbyhq.com/wealthbox/90ff39fb-c6de-4b6f-bef5-9012f0453daf |
 | d10d72c9-34ce-43dc-9e75-24a4b1941fcf | Astera | Software Engineer, Biomolecular Structure Software | Emeryville, CA | Ashby | 2026-11-13 | Agent | Submitted | — |
 | eb3c7369-7c47-4654-a151-8434430f0f38 | Clera | Product Engineer | San Francisco, CA | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/clera/eb3c7369-7c47-4654-a151-8434430f0f38 |
 | 0be09ea9-5068-496c-95a1-75a7c2b00f21 | Clera | Member of Technical Staff (MTS) | New York, NY | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/clera/0be09ea9-5068-496c-95a1-75a7c2b00f21 |
@@ -130,7 +130,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | — | Sun West Mortgage Company | Software Engineer | United States (Remote) | Company own form | 2026-11-02 | Agent | Submitted | https://www.sunwestmortgage.com/careers |
 | R1004621 | Capital One | AI Engineer 4 (MLX, Agentic AI, Gen AI workflows, GraphRAG) | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://www.capitalonecareers.com/job/new-york/ai-engineer-4-mlx-agentic-ai-gen-ai-workflows-graphrag/1732/102529573840 |
-| 7d6ae2be-cd53-466c-8151-2dae2e87aace | Abridge | Member of Technical Staff, Early Career | San Francisco, CA | Ashby | 2026-11-02 | Agent | Submitted | https://jobs.ashbyhq.com/Abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application |
+| 7d6ae2be-cd53-466c-8151-2dae2e87aace | Abridge | Member of Technical Staff, Early Career | San Francisco, CA | Ashby | 2026-11-02 | Agent | Rejected | https://jobs.ashbyhq.com/Abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application |
 | R29015 | Chewy | Software Engineer II | Minneapolis, MN | Phenom | 2026-11-02 | Agent | Submitted | https://careers.chewy.com/us/en/job/R29015 |
 | R1001048 | Capital One | AI Engineer 3 (AI Foundations) | McLean, VA | Workday | 2026-11-02 | Agent | Submitted | https://www.capitalonecareers.com/job/mclean/ai-engineer-3-ai-foundations/1732/100813798352 |
 | 8746698002 | Fieldwire by Hilti | AI/ML Engineer | San Francisco, CA | Greenhouse | 2026-11-02 | Agent | Submitted | https://www.fieldwire.com/job/8746698002/ |
