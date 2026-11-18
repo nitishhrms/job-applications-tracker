@@ -333,3 +333,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 9aa029df-2e64-42a4-8822-a7d0bb766c10 | AeroVect | Software Engineer, Simulation | Remote, United States | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/AeroVect/9aa029df-2e64-42a4-8822-a7d0bb766c10 |
 | d502c09c-b1de-4d3f-97b6-a684525889bc | Mercor | Agentic Product Engineer, Studio Platform | New York, NY | Ashby | 2026-11-16 | Agent | Submitted | https://jobs.ashbyhq.com/mercor/d502c09c-b1de-4d3f-97b6-a684525889bc |
 | 8949716002 | Path Robotics | Machine Learning Engineer, Robotics | Columbus, Ohio or Remote | Greenhouse | 2026-11-18 | Agent | Submitted | https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002 |
+| R-083877 | Rocket Companies | Software Engineer I | Detroit, MI | Eightfold (Rocket Careers) | 2026-11-18 | Agent | Submitted | https://careers.rocket.com/us/en/job/R-083877/Software-Engineer-I |
