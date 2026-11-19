@@ -61,7 +61,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8181183003 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Remote — US | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8181183003 |
 | 8384242 | Skyryse | Junior Software Engineer | El Segundo, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/skyryse/jobs/8384242 |
 | e36468fe-2e54-4269-ad7e-c772fa9fa3a0 | Gecko Robotics | Full Stack Software Engineer | Robotics | Pittsburgh, PA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/gecko-robotics/e36468fe-2e54-4269-ad7e-c772fa9fa3a0 |
-| JR5951 | Etsy | Software Engineer II, Observability | Brooklyn, NY | Workday | 2026-10-30 | Agent | Submitted | https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1/apply |
+| JR5951 | Etsy | Software Engineer II, Observability | Brooklyn, NY | Workday | 2026-10-30 | Agent | Rejected 2026-11-19 | https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1/apply |
 | — | Nori Robotics | Software Engineer | — | YC | 2026-10-19 | Self | Submitted | — |
 | — | Marathon TS | Software Engineer | — | — | 2026-10-19 | Self | Submitted | — |
 | — | SoTalent | Software Engineer | — | — | 2026-10-19 | Self | Submitted | — |
@@ -197,7 +197,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | ed14bfa6-4738-468c-8d13-5c83a5c51d27 | Blossom Health | Applied AI Engineer | New York, NY | Ashby | 2026-11-07 | Agent | Submitted | https://jobs.ashbyhq.com/blossom-health/ed14bfa6-4738-468c-8d13-5c83a5c51d27 |
 | 17815e07-5b55-4efd-9aa8-1d33d6ec010f | Garage | Software Engineer, Design | New York, NY | Ashby | 2026-11-08 | Agent | Submitted | https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f |
 | 76a6f987-7948-445d-8d49-af7ea55850e6 | Wayve | Machine Learning Software Engineer | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-11 | https://jobs.ashbyhq.com/wayve/76a6f987-7948-445d-8d49-af7ea55850e6 |
-| 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
+| 3ffe6272-dc0e-4fa7-b3bc-a428337910ed | Wayve | Software Engineer, Fleet Management | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-19 | https://jobs.ashbyhq.com/wayve/3ffe6272-dc0e-4fa7-b3bc-a428337910ed |
 | 06c2599d-4dd5-4f97-843f-7194b546f042 | Notion | Software Engineer, Web Infrastructure | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042 |
 | 90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Rejected 2026-11-13 | https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 |
 | 6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 | Wayve | Full Stack Software Engineer, Evaluation Tools | Sunnyvale, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/wayve/6e64fd52-6f14-4d73-8d8a-0a31d7ad1f31 |
@@ -283,7 +283,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5281682007 | Esri | Software Developer II - Web Components | Redlands, CA | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.esri.com/careers/5281682007?title=software-developer-ii-web-components&gh_jid=5281682007 |
 | 8902671002 | Qube Research & Technologies | Production Support Engineer - LLM Platform | Chicago, IL / New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.qube-rt.com/careers/job?gh_jid=8902671002 |
 | 4011484007 | Ryder System | Software Engineer - Infrastructure, Data Platform | San Francisco, CA | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/baton/jobs/4011484007 |
-| 4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | Gecko Robotics | Software Engineer \| Infrastructure | New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 |
+| 4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 | Gecko Robotics | Software Engineer \| Infrastructure | New York, NY | Ashby | 2026-11-04 | Agent | Rejected 2026-11-19 | https://jobs.ashbyhq.com/gecko-robotics/4f0d1bca-72e2-4d51-81c1-b6a67a8fcad9 |
 | 1cba14aa-a69d-4f54-a64b-013c05d24d53 | Applied Intuition | Software Engineer, C++ (Onboard Platform) | Sunnyvale, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/applied/1cba14aa-a69d-4f54-a64b-013c05d24d53 |
 | 3c9a9729-7ff1-49e3-a388-f108745e4b41 | Deepgram | Software Engineer - Applied AI | San Francisco, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/Deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41 |
 | f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, CA / New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 |
@@ -341,3 +341,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8949716002 | Path Robotics | Machine Learning Engineer, Robotics | Columbus, Ohio or Remote | Greenhouse | 2026-11-18 | Agent | Submitted | https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002 |
 | R-083877 | Rocket Companies | Software Engineer I | Detroit, MI | Eightfold (Rocket Careers) | 2026-11-18 | Agent | Submitted | https://careers.rocket.com/us/en/job/R-083877/Software-Engineer-I |
 | 93215a80-a855-4b86-8e5c-e4ee29d64bdf | Rula | Software Engineer II | Remote, United States | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/rula/93215a80-a855-4b86-8e5c-e4ee29d64bdf |
+| 26013824 | American Express | Software Engineer I, Vert.x/Spring/Spring Boot/RESTful microservices (GNST) | United States (location not stated in email) | Oracle Recruiting | 2026-11-18 | Agent | Rejected 2026-11-19 | https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013824 |
