@@ -91,6 +91,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 04788c6a-8403-48d5-98f7-01a3bfe842dc | Adaptive Innovations | Software Engineer, Agents | New York, NY | Ashby | 2026-11-18 | Agent | Submitted | https://www.adaptive.co/careers/software-engineer-agents/ |
 | d92f1ac9-1abb-448c-b039-22643d9bb8a7 | Kira | Software Engineer (Entry Level) | San Francisco, CA / New York, NY | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 |
 | 09d6d9f2-796f-4e82-9421-4a55f3fbe352 | Atlas | Web Engineer | San Francisco, CA | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/atlas/09d6d9f2-796f-4e82-9421-4a55f3fbe352 |
+| 8951218002 | CAIS | Applied AI Engineer | New York, NY | Greenhouse | 2026-11-19 | Agent | Submitted | https://job-boards.greenhouse.io/cais/jobs/8951218002 |
 
 | REQ21278 | Snowflake | Software Engineer, Trust & Platform Security | Bellevue, WA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f |
 
