@@ -88,6 +88,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 374cd009-516f-4a1f-abbf-bcca5287daae | Mercor | Software Engineer, Systems & Platform Applied AI | San Francisco, CA | Ashby | 2026-11-09 | Agent | Submitted | https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae |
 | 4436581009 | Astronics | Software Engineer II (Applications) | Waukegan, IL | Greenhouse | 2026-11-09 | Agent | Submitted | https://job-boards.greenhouse.io/astronicscorporation/jobs/4436581009 |
 | 4750006005 | SolarWinds | Software Engineer | Austin, TX | Greenhouse | 2026-11-09 | Agent | Submitted | https://jobs.solarwinds.com/job-detail/?gh_jid=4750006005 |
+| 04788c6a-8403-48d5-98f7-01a3bfe842dc | Adaptive Innovations | Software Engineer, Agents | New York, NY | Ashby | 2026-11-18 | Agent | Submitted | https://www.adaptive.co/careers/software-engineer-agents/ |
 | d92f1ac9-1abb-448c-b039-22643d9bb8a7 | Kira | Software Engineer (Entry Level) | San Francisco, CA / New York, NY | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7 |
 | 09d6d9f2-796f-4e82-9421-4a55f3fbe352 | Atlas | Web Engineer | San Francisco, CA | Ashby | 2026-11-18 | Agent | Submitted | https://jobs.ashbyhq.com/atlas/09d6d9f2-796f-4e82-9421-4a55f3fbe352 |
 
