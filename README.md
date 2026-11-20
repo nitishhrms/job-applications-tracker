@@ -347,3 +347,4 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8868948002 | Chime | Software Engineer, Jade Foundation – AI Financial Partner | San Francisco, CA | Greenhouse | 2026-11-19 | Agent | Submitted | https://job-boards.greenhouse.io/chime/jobs/8868948002 |
 | 304922 | Uber | Software Engineer II - Backend | Sunnyvale / San Francisco, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304922/ |
 | 304972 | Uber | Software Engineer II - Data Engineering | Sunnyvale, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304972/ |
+| 3cb05976-1a91-4cee-a17d-efa35d6e9d17 | Ampersand | Product Engineer, AI Agents | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/Ampersand/3cb05976-1a91-4cee-a17d-efa35d6e9d17 |
