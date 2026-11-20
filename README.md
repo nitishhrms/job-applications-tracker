@@ -348,3 +348,5 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 304922 | Uber | Software Engineer II - Backend | Sunnyvale / San Francisco, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304922/ |
 | 304972 | Uber | Software Engineer II - Data Engineering | Sunnyvale, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304972/ |
 | 3cb05976-1a91-4cee-a17d-efa35d6e9d17 | Ampersand | Product Engineer, AI Agents | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/Ampersand/3cb05976-1a91-4cee-a17d-efa35d6e9d17 |
+| 8209722003 | OKX | Software Engineer, Card | San Jose, CA | Greenhouse | 2026-11-19 | Agent | Submitted | https://job-boards.greenhouse.io/okx/jobs/8209722003 |
+| JR368687 | Salesforce | Software Engineer, Infrastructure and Distributed Systems | San Francisco, CA | Workday | 2026-11-19 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687 |
