@@ -10,6 +10,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 |---|---|---|---|---|---|---|---|---|
 | fddec35f-9dbc-4344-b1df-b8ff6e05472a | Baseten | Software Engineer - Inference Product | San Francisco, CA / New York, NY | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a |
 | c0517878-58a9-41e0-83c6-f1d41fbf4e37 | Clera | Full-Stack Software Engineer, Design | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/clera/c0517878-58a9-41e0-83c6-f1d41fbf4e37 |
+| 9554e35a-bdc4-4095-95f0-210f42f31cf8 | Clera | Machine Learning Engineer, Mid-Level | San Francisco, CA | Ashby | 2026-11-20 | Agent | Submitted | https://jobs.ashbyhq.com/clera/9554e35a-bdc4-4095-95f0-210f42f31cf8 |
 | R00148540 | AbbVie | Associate Full-Stack Software Engineer II | Mettawa, IL | SmartRecruiters | 2026-11-17 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-full-stack-software-engineer-ii-in-mettawa-il-jid-35978 |
 | 8948543002 | Atoms | Cloud Platform - ML Robotics Infra Engineer | Pittsburgh, PA | Greenhouse | 2026-11-17 | Agent | Submitted | https://atoms.co/openroles?job=8948543002 |
 | 5250979007 | HeyGen | Software Engineer, GPU Performance | Los Angeles, CA | Greenhouse | 2026-11-16 | Agent | Submitted | https://job-boards.greenhouse.io/heygen/jobs/5250979007 |
