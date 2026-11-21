@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8122990 | Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, CA | Greenhouse | 2026-11-21 | Agent | Submitted | https://www.nuro.ai/careersitem?gh_jid=8122990 |
 | 8201469003 | Affirm | Software Engineer I, Backend (Streaming Infra) | United States (Remote) | Greenhouse | 2026-11-20 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8201469003 |
 | 7564ec75-617b-4065-8da6-72210460a6ef | Hinge Health | AI Engineer II | San Francisco, CA | Ashby | 2026-11-20 | Agent | Submitted | https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef |
 | fddec35f-9dbc-4344-b1df-b8ff6e05472a | Baseten | Software Engineer - Inference Product | San Francisco, CA / New York, NY | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a |
