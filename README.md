@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 7564ec75-617b-4065-8da6-72210460a6ef | Hinge Health | AI Engineer II | San Francisco, CA | Ashby | 2026-11-20 | Agent | Submitted | https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef |
 | fddec35f-9dbc-4344-b1df-b8ff6e05472a | Baseten | Software Engineer - Inference Product | San Francisco, CA / New York, NY | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a |
 | 8a989ccd-57d6-4015-bf79-2b28444e1e85 | Baseten | Web Engineer | San Francisco, CA / New York, NY | Ashby | 2026-11-20 | Agent | Submitted | https://jobs.ashbyhq.com/baseten/8a989ccd-57d6-4015-bf79-2b28444e1e85 |
 | c0517878-58a9-41e0-83c6-f1d41fbf4e37 | Clera | Full-Stack Software Engineer, Design | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/clera/c0517878-58a9-41e0-83c6-f1d41fbf4e37 |
