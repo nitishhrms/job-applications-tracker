@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 4bb1a9f1-bbad-4729-bccb-7a17f5601a79 | Eight Sleep | New Grad - Engineering | San Francisco, CA | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79 |
 | ab69f040-9b87-4420-9150-edc6e4f54cfb | Secureframe | Software Engineer, New Grad | New York, NY | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb |
 | 8122990 | Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, CA | Greenhouse | 2026-11-21 | Agent | Submitted | https://www.nuro.ai/careersitem?gh_jid=8122990 |
 | 8201469003 | Affirm | Software Engineer I, Backend (Streaming Infra) | United States (Remote) | Greenhouse | 2026-11-20 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8201469003 |
