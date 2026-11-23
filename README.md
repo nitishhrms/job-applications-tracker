@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 5303374007 | The Trade Desk | Front-End Engineer II - Reporting | Bellevue, WA | Greenhouse | 2026-11-23 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5303374007/front-end-engineer-ii-reporting |
 | 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
 | bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | San Francisco, CA | Company form | 2026-11-23 | Agent | Submitted | https://careers.airwallex.com/job/bd91b283-8de0-41bd-aba4-8cae281808a7/software-engineer-ai-tooling/ |
 | 4bb1a9f1-bbad-4729-bccb-7a17f5601a79 | Eight Sleep | New Grad - Engineering | San Francisco, CA | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79 |
