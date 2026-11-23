@@ -243,6 +243,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | ae435bd5-fe8e-49c7-9d64-53034dc0ff45 | TensorWave | ML Engineer, Developer Ecosystem | Remote (Bay Area, CA) | Ashby | 2026-11-13 | Agent | Submitted | https://jobs.ashbyhq.com/tensorwave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45 |
 | 6261926004 | EvolutionIQ | Software Engineer (AI Data Engineering) | New York, NY or Remote | Greenhouse | 2026-11-13 | Agent | Submitted | https://job-boards.greenhouse.io/evolutioniq/jobs/6261926004 |
 | TW9327 / 8943553002 | Twitch | Software Engineer I, Payments | San Francisco, CA | Greenhouse | 2026-11-13 | Agent | Submitted | https://job-boards.greenhouse.io/twitch/jobs/8943553002 |
+| ef81d491-6991-49f7-8195-d3de86d951b0 | Eight Sleep | Machine Learning Engineer (Foundation Models & Personalization) | San Francisco, CA | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/ef81d491-6991-49f7-8195-d3de86d951b0 |
 
 ## Do not re-apply — outcome uncertain
 
