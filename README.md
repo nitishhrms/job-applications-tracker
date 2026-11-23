@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| a973f788-8bd2-44e0-bfb7-c7775ed89c51 | Titan | Member of Technical Staff, Platform | New York, NY / San Francisco, CA | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/titan-msp/a973f788-8bd2-44e0-bfb7-c7775ed89c51 |
 | 571ff25a-c3ad-44f5-8f35-f4a7944899df | WebAI | Jr Software Developer | Austin, TX | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df |
 | 5303374007 | The Trade Desk | Front-End Engineer II - Reporting | Bellevue, WA | Greenhouse | 2026-11-23 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5303374007/front-end-engineer-ii-reporting |
 | 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
