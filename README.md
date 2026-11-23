@@ -12,6 +12,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5303374007 | The Trade Desk | Front-End Engineer II - Reporting | Bellevue, WA | Greenhouse | 2026-11-23 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5303374007/front-end-engineer-ii-reporting |
 | 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
 | bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | San Francisco, CA | Company form | 2026-11-23 | Agent | Submitted | https://careers.airwallex.com/job/bd91b283-8de0-41bd-aba4-8cae281808a7/software-engineer-ai-tooling/ |
+| 10591932 | Amazon | System Development Engineer, CLS Detection Engineering | — | Amazon Jobs | — | Not previously tracked | Rejected 2026-11-23 (rejection email names this job ID) | — |
 | 4bb1a9f1-bbad-4729-bccb-7a17f5601a79 | Eight Sleep | New Grad - Engineering | San Francisco, CA | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79 |
 | ab69f040-9b87-4420-9150-edc6e4f54cfb | Secureframe | Software Engineer, New Grad | New York, NY | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb |
 | 8122990 | Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, CA | Greenhouse | 2026-11-21 | Agent | Submitted | https://www.nuro.ai/careersitem?gh_jid=8122990 |
@@ -68,7 +69,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 4350 | Waymo | Machine Learning Engineer, Maneuvering Tech | Mountain View / San Francisco / Pittsburgh | Company form | 2026-10-30 | Agent | Submitted | https://careers.withwaymo.com |
 | 4824097007 | Rippling | Software Engineer II, Backend - Platform Team | San Francisco, CA | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/rippling/jobs/4824097007 |
 | df35cc55-1783-402d-b0d9-ca1352f50d0b | Reducto | Machine Learning Infra Engineer | San Francisco, CA | Ashby | 2026-10-31 | Agent | Submitted | https://jobs.ashbyhq.com/reducto/df35cc55-1783-402d-b0d9-ca1352f50d0b/application |
-| 8016866003 | Affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | Greenhouse | 2026-10-31 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8016866003 |
+| 8016866003 | Affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | Greenhouse | 2026-10-31 | Agent | Rejected 2026-11-23 | https://job-boards.greenhouse.io/affirm/jobs/8016866003 |
 | 8181183003 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Remote — US | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/affirm/jobs/8181183003 |
 | 8384242 | Skyryse | Junior Software Engineer | El Segundo, CA | Greenhouse | 2026-11-12 | Agent | Submitted | https://job-boards.greenhouse.io/skyryse/jobs/8384242 |
 | e36468fe-2e54-4269-ad7e-c772fa9fa3a0 | Gecko Robotics | Full Stack Software Engineer | Robotics | Pittsburgh, PA | Ashby | 2026-11-12 | Agent | Submitted | https://jobs.ashbyhq.com/gecko-robotics/e36468fe-2e54-4269-ad7e-c772fa9fa3a0 |
@@ -164,7 +165,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 49063 | Paylocity | Associate Machine Learning Engineer | United States (Remote) | Paylocity (company own ATS) | 2026-11-02 | Agent | Rejected 2026-11-12 (location needs mismatch) | https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/49063 |
 | JR1000037 | Postman | Software Engineer - Fern | New York, NY | Workday | 2026-11-02 | Agent | Submitted | https://postman.wd108.myworkdayjobs.com/careers/job/NYC-NY-US/Software-Engineer---Fern_JR1000037 |
 
-| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-03 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
+| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-03 | Agent | Rejected 2026-11-23 | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
 
 | 4485795436 | Fonzi AI | ML Engineer | San Francisco Bay Area, CA | Fonzi (company own, talent.fonzi.ai) | 2026-11-03 | Agent | Submitted | https://talent.fonzi.ai/ |
 
@@ -175,7 +176,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | R-294616 | Mastercard | Software Engineer II - AI Platforms | Atlanta, GA | Mastercard Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://careers.mastercard.com/us/en/job/R-294616/Software-Engineer-II-AI-Platforms |
 | 8930382002 | Myriad360 | Junior AI and Automation Engineer | Remote US | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/myriad360/jobs/8930382002 |
-| 744000159724018 | NBCUniversal | Jr. Software Engineer | Universal City, CA | SmartRecruiters | 2026-11-04 | Agent | Submitted | https://jobs.smartrecruiters.com/NBCUniversal3/744000159724018-jr-software-engineer |
+| 744000159724018 | NBCUniversal | Jr. Software Engineer | Universal City, CA | SmartRecruiters | 2026-11-04 | Agent | Rejected 2026-11-23 | https://jobs.smartrecruiters.com/NBCUniversal3/744000159724018-jr-software-engineer |
 | V9u3fTjcNX | Foundation AI | Software Engineer | New York, NY | JazzHR | 2026-11-04 | Agent | Submitted | https://foundationai.applytojob.com/apply/V9u3fTjcNX/Software-Engineer |
 | 8346858 | Qualtrics | Software Engineer II - Reporting Platform | Seattle, WA | Qualtrics Careers (Phenom) | 2026-11-04 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8346858/Software-Engineer-II-Reporting-Platform |
 | 8357630 | Qualtrics | Software Engineer II - Discover Studio | Reston, VA | Qualtrics Careers (Phenom) | 2026-11-06 | Agent | Submitted | https://www.qualtrics.com/careers/us/en/job/8357630/Software-Engineer-II-Discover-Studio |
@@ -301,7 +302,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 | Notion | Software Engineer, Growth | San Francisco, CA / New York, NY | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887 |
 | 5021322101 | ASM International | Engineer II, Field Software | Austin, TX | Greenhouse | 2026-11-04 | Agent | Submitted | https://www.asm.com/open-vacancies/engineer-ii-field-software-5021322101?gh_jid=5021322101 |
 | 4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 | Obvio | Software Engineer, Annotation Systems | San Carlos, CA | Ashby | 2026-11-04 | Agent | Submitted | https://jobs.ashbyhq.com/obvio/4c1c570f-77a9-4dd0-9e43-ba863f1c4ae7 |
-| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Submitted | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
+| 5282402007 | Pallet | Software Engineer, Agent Delivery | New York, NY | Greenhouse | 2026-11-04 | Agent | Rejected 2026-11-23 | https://job-boards.greenhouse.io/pallet/jobs/5282402007 |
 | 1B2646E985 | Ottimate | Software Engineer (US Candidates only) | Remote, United States | Workable | 2026-11-05 | Agent | Submitted | https://apply.workable.com/ottimate/j/1B2646E985/ |
 | 55f5cd70-58f7-4c09-a8a0-e9254ceecddf | Quadric | AI Inference Framework Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/55f5cd70-58f7-4c09-a8a0-e9254ceecddf |
 | 1755413f-b585-476c-a572-acdcae416dba | Quadric | AI Inference Optimization Engineer | Burlingame, CA | Ashby | 2026-11-05 | Agent | Submitted | https://jobs.ashbyhq.com/quadric/1755413f-b585-476c-a572-acdcae416dba |
