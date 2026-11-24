@@ -13,6 +13,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 571ff25a-c3ad-44f5-8f35-f4a7944899df | WebAI | Jr Software Developer | Austin, TX | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df |
 | 5303374007 | The Trade Desk | Front-End Engineer II - Reporting | Bellevue, WA | Greenhouse | 2026-11-23 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5303374007/front-end-engineer-ii-reporting |
 | 5294066007 | The Trade Desk | Front-End Engineer II - Data Marketplace Experiences | New York, NY | Greenhouse | 2026-11-24 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5294066007/front-end-engineer-ii-data-marketplace-experiences |
+| 4731759006 | Wurl | Software Engineer I - Remote | United States (Remote) | Greenhouse | 2026-11-24 | Agent | Submitted | https://job-boards.greenhouse.io/wurljobs/jobs/4731759006 |
 | 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
 | bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | San Francisco, CA | Company form | 2026-11-23 | Agent | Submitted | https://careers.airwallex.com/job/bd91b283-8de0-41bd-aba4-8cae281808a7/software-engineer-ai-tooling/ |
 | 10591932 | Amazon | System Development Engineer, CLS Detection Engineering | — | Amazon Jobs | — | Not previously tracked | Rejected 2026-11-23 (rejection email names this job ID) | — |
