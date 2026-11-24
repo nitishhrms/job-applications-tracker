@@ -15,6 +15,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
 | bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | San Francisco, CA | Company form | 2026-11-23 | Agent | Submitted | https://careers.airwallex.com/job/bd91b283-8de0-41bd-aba4-8cae281808a7/software-engineer-ai-tooling/ |
 | 10591932 | Amazon | System Development Engineer, CLS Detection Engineering | — | Amazon Jobs | — | Not previously tracked | Rejected 2026-11-23 (rejection email names this job ID) | — |
+| JR2027337 | NVIDIA | Software Engineer, DL Kernel Libraries — New College Grad 2027 | — | Workday | — | Not previously tracked | Rejected 2026-11-24 (rejection email names this job ID; submission date not recorded — do not invent one) | — |
 | 4bb1a9f1-bbad-4729-bccb-7a17f5601a79 | Eight Sleep | New Grad - Engineering | San Francisco, CA | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79 |
 | ab69f040-9b87-4420-9150-edc6e4f54cfb | Secureframe | Software Engineer, New Grad | New York, NY | Ashby | 2026-11-21 | Agent | Submitted | https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb |
 | 8122990 | Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, CA | Greenhouse | 2026-11-21 | Agent | Submitted | https://www.nuro.ai/careersitem?gh_jid=8122990 |
