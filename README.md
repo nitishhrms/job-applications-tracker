@@ -8,6 +8,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| bdc9f0e0-5fff-4689-b047-fb7c43fa0510 | Act (ActAI Inc.) | ML Engineer, Ranking & Retrieval | United States (Remote) | Ashby | 2026-11-25 | Agent | Submitted | https://jobs.ashbyhq.com/actcareers/bdc9f0e0-5fff-4689-b047-fb7c43fa0510 |
+| 8957982002 | Artefact | AI Applied Engineer – AI Engineer | New York, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/artefactnoram/jobs/8957982002 |
 | 8274152 | Airbnb | Software Engineer, Payments | United States (Remote) | Greenhouse | 2026-11-24 | Agent | Submitted | https://careers.airbnb.com/positions/8274152/ |
 | 8d738861-760e-4a11-8545-49aefbe8cf3e | Trail | Member of Technical Staff | Palo Alto, CA | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/trailhq/8d738861-760e-4a11-8545-49aefbe8cf3e |
 | a973f788-8bd2-44e0-bfb7-c7775ed89c51 | Titan | Member of Technical Staff, Platform | New York, NY / San Francisco, CA | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/titan-msp/a973f788-8bd2-44e0-bfb7-c7775ed89c51 |
