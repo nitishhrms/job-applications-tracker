@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8217232003 | LaunchDarkly | GTM AI Engineer | United States (Remote) | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003 |
 | 2026090611401041 | Meta | Software Engineer | Bellevue, WA | Meta Careers (company) | 2026-11-25 | Agent | Submitted | https://www.metacareers.com/profile/job_details/2026090611401041/ |
 | 8962912002 | XPENG Motors | Software Engineer - Computing Platform (New Graduate) | Santa Clara, CA | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002 |
 | R00154217 | AbbVie | Associate AI Applications Engineer II | North Chicago, IL | SmartRecruiters | 2026-11-25 | Agent | Submitted | https://careers.abbvie.com/en/job/associate-ai-applications-engineer-ii-in-north-chicago-il-jid-36358 |
