@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8417873 | CarGurus | Software Development Engineer II | Boston, MA | Phenom (company careers) | 2026-11-25 | Agent | Submitted | https://careers.cargurus.com/us/en/job/8417873/Software-Development-Engineer-II |
 | JR26111069 | Manulife | AI Engineer | Boston, MA | Phenom | 2026-11-25 | Agent | Submitted | https://careers.manulife.com/global/en/job/JR26111069 |
 | R-00070 | Upstart | Software Engineer II, Developer Platform | Remote US | Upstart careers (own form) | 2026-11-25 | Agent | Submitted | https://careers.upstart.com/jobs/software-engineer-ii-developer-platform |
 | 4110cccf7189 | Cyber Advisors | AI & Innovation Engineer | Remote US | Breezy HR | 2026-11-25 | Agent | Submitted | https://cyber-advisors.breezy.hr/p/4110cccf7189-ai-innovation-engineer |
