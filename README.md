@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| R-00070 | Upstart | Software Engineer II, Developer Platform | Remote US | Upstart careers (own form) | 2026-11-25 | Agent | Submitted | https://careers.upstart.com/jobs/software-engineer-ii-developer-platform |
 | 4110cccf7189 | Cyber Advisors | AI & Innovation Engineer | Remote US | Breezy HR | 2026-11-25 | Agent | Submitted | https://cyber-advisors.breezy.hr/p/4110cccf7189-ai-innovation-engineer |
 | bdc9f0e0-5fff-4689-b047-fb7c43fa0510 | Act (ActAI Inc.) | ML Engineer, Ranking & Retrieval | United States (Remote) | Ashby | 2026-11-25 | Agent | Submitted | https://jobs.ashbyhq.com/actcareers/bdc9f0e0-5fff-4689-b047-fb7c43fa0510 |
 | 8957982002 | Artefact | AI Applied Engineer – AI Engineer | New York, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/artefactnoram/jobs/8957982002 |
