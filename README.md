@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 7727320003 | Affirm | Software Engineer II, Backend (Test Infra) | Remote, United States | Greenhouse | 2026-11-26 | Agent | Submitted | https://job-boards.greenhouse.io/embed/job_app?for=affirm&token=7727320003 |
 | 85a22260-a520-4640-b846-98e179317f10 | Eka Robotics | Machine Learning / Computer Vision Engineer | Boston Area, MA | Ashby | 2026-11-26 | Agent | Submitted | https://jobs.ashbyhq.com/ekarobotics/85a22260-a520-4640-b846-98e179317f10 |
 | 6268434004 | DeepIntent | Applied AI Engineer | New York, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/deepintent/jobs/6268434004 |
 | 8031471003 | Orenda, Inc | Machine Learning Engineer | Brooklyn, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/orenda/jobs/8031471003 |
