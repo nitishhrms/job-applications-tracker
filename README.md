@@ -9,6 +9,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
 | 6268434004 | DeepIntent | Applied AI Engineer | New York, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/deepintent/jobs/6268434004 |
+| 8031471003 | Orenda, Inc | Machine Learning Engineer | Brooklyn, NY | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/orenda/jobs/8031471003 |
 | 73310b0b-a62f-416d-ab3e-c632926389d5 | AKASA | Software Engineer, Applied AI | San Francisco, CA | Ashby | 2026-11-25 | Agent | Submitted | https://akasa.com/careers/?ashby_jid=73310b0b-a62f-416d-ab3e-c632926389d5 |
 | 6255572004 | Edmentum | Software Engineer I | Remote, United States | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/edmentum/jobs/6255572004 |
 | 5309821007 | Faropoint | Software Engineer | Hoboken, NJ | Greenhouse | 2026-11-25 | Agent | Submitted | https://job-boards.greenhouse.io/faropoint/jobs/5309821007 |
