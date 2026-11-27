@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 8695202002 | Torc Robotics | Machine Learning Engineer, II - 3D Perception | United States (Remote) | Greenhouse | 2026-11-26 | Agent | Submitted | https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002 |
 | — | Domino Data Lab | Software Engineer, New Grad | — | — | — | Agent | Rejected 2026-11-25 | Rejection email 2026-11-25 (2027 full-time class full / role closed); no prior tracker row — added on rejection |
 | R2977 | Fenwick & West LLP | Applications Developer | — | Workday | — | Agent | Rejected 2026-11-25 | Rejection email 2026-11-25; no prior tracker row — added on rejection |
 | 8243216 | CarGurus | Backend Engineer II, Product Engineering | Boston, MA | Phenom (company careers) | 2026-11-26 | Agent | Submitted | https://careers.cargurus.com/us/en/job/8243216/Backend-Engineer-II-Product-Engineering |
