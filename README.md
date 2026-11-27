@@ -285,6 +285,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | ef81d491-6991-49f7-8195-d3de86d951b0 | Eight Sleep | Machine Learning Engineer (Foundation Models & Personalization) | San Francisco, CA | Ashby | 2026-11-23 | Agent | Submitted | https://jobs.ashbyhq.com/eightsleep/ef81d491-6991-49f7-8195-d3de86d951b0 |
 | 2030715 | Cisco | Software Engineer | Research Triangle Park, NC | Cisco Careers (Phenom / Workday) | 2026-11-25 | Agent | Submitted | https://careers.cisco.com/global/en/job/2030715/Software-Engineer |
 | 4495300771 | Fonzi AI | Software Engineer | San Francisco Bay Area, CA | Fonzi (company own, talent.fonzi.ai) | 2026-11-27 | Agent | Submitted | https://www.linkedin.com/jobs/view/4495300771/ |
+| bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540 | Clera | Mid-Level Software Engineer (L2-L3) | United States | Ashby | 2026-11-27 | Agent | Submitted | https://jobs.ashbyhq.com/clera/bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540 |
 
 ## Do not re-apply — outcome uncertain
 
