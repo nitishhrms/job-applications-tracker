@@ -9,6 +9,10 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
 | 8113314 | InMobi | AI Engineer | San Mateo, CA | Greenhouse | 2026-11-26 | Agent | Submitted | https://job-boards.greenhouse.io/inmobi/jobs/8113314 |
+| — | LangChain | Commercial Deployed Engineer | Bay Area, CA | Ashby | 2026-11-26 | Manual (receipt) | Submitted | https://jobs.ashbyhq.com/langchain |
+| — | Pura | Software Engineer (Junior / Mid-Level) | Remote, US | JazzHR | 2026-11-26 | Manual (receipt) | Submitted | https://pura.applytojob.com/apply/SR5aHx6pwl/Software-Engineer-Junior-MidLevel |
+| 4495050069 | Corus Consulting (an Alten Company) | Agentic AI Engineer – Banking Industry | New York, NY (Hybrid) | LinkedIn | 2026-11-26 | Manual (receipt) | Submitted | https://www.linkedin.com/jobs/view/4495050069/ |
+| — | Genius AI | Software Engineer | — | Ashby | 2026-11-26 | Manual (receipt) | Submitted | https://jobs.ashbyhq.com/genius-ai |
 | 8695202002 | Torc Robotics | Machine Learning Engineer, II - 3D Perception | United States (Remote) | Greenhouse | 2026-11-26 | Agent | Submitted | https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002 |
 | — | Domino Data Lab | Software Engineer, New Grad | — | — | — | Agent | Rejected 2026-11-25 | Rejection email 2026-11-25 (2027 full-time class full / role closed); no prior tracker row — added on rejection |
 | R2977 | Fenwick & West LLP | Applications Developer | — | Workday | — | Agent | Rejected 2026-11-25 | Rejection email 2026-11-25; no prior tracker row — added on rejection |
@@ -41,7 +45,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 5303374007 | The Trade Desk | Front-End Engineer II - Reporting | Bellevue, WA | Greenhouse | 2026-11-23 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5303374007/front-end-engineer-ii-reporting |
 | 5294066007 | The Trade Desk | Front-End Engineer II - Data Marketplace Experiences | New York, NY | Greenhouse | 2026-11-24 | Agent | Submitted | https://careers.thetradedesk.com/jobs/5294066007/front-end-engineer-ii-data-marketplace-experiences |
 | 4731759006 | Wurl | Software Engineer I - Remote | United States (Remote) | Greenhouse | 2026-11-24 | Agent | Submitted | https://job-boards.greenhouse.io/wurljobs/jobs/4731759006 |
-| 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Submitted | https://sproutsocial.com/careers/open-positions/8400299/ |
+| 8400299 | Sprout Social | GTM AI Engineer | Remote, US | Greenhouse | 2026-11-23 | Agent | Rejected 2026-11-25 | https://sproutsocial.com/careers/open-positions/8400299/ |
 | bd91b283-8de0-41bd-aba4-8cae281808a7 | Airwallex | Software Engineer, AI Tooling | San Francisco, CA | Company form | 2026-11-23 | Agent | Submitted | https://careers.airwallex.com/job/bd91b283-8de0-41bd-aba4-8cae281808a7/software-engineer-ai-tooling/ |
 | 10591932 | Amazon | System Development Engineer, CLS Detection Engineering | — | Amazon Jobs | — | Not previously tracked | Rejected 2026-11-23 (rejection email names this job ID) | — |
 | JR2027337 | NVIDIA | Software Engineer, DL Kernel Libraries — New College Grad 2027 | — | Workday | — | Not previously tracked | Rejected 2026-11-24 (rejection email names this job ID; submission date not recorded — do not invent one) | — |
@@ -392,8 +396,8 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 | 66e1299c-aaa9-4bee-b326-26afbd8b86ea | Reducto | Backend/AI Engineer | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/reducto/66e1299c-aaa9-4bee-b326-26afbd8b86ea |
 | 5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd | GovWell | Software Engineer | New York, NY | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/govwell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd |
 | 8868948002 | Chime | Software Engineer, Jade Foundation – AI Financial Partner | San Francisco, CA | Greenhouse | 2026-11-19 | Agent | Submitted | https://job-boards.greenhouse.io/chime/jobs/8868948002 |
-| 304922 | Uber | Software Engineer II - Backend | Sunnyvale / San Francisco, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304922/ |
-| 304972 | Uber | Software Engineer II - Data Engineering | Sunnyvale, CA | Oracle HCM | 2026-11-19 | Agent | Submitted | https://jobs.uber.com/en/jobs/304972/ |
+| 304922 | Uber | Software Engineer II - Backend | Sunnyvale / San Francisco, CA | Oracle HCM | 2026-11-19 | Agent | Rejected 2026-11-26 | https://jobs.uber.com/en/jobs/304922/ |
+| 304972 | Uber | Software Engineer II - Data Engineering | Sunnyvale, CA | Oracle HCM | 2026-11-19 | Agent | Rejected 2026-11-26 | https://jobs.uber.com/en/jobs/304972/ |
 | 3cb05976-1a91-4cee-a17d-efa35d6e9d17 | Ampersand | Product Engineer, AI Agents | San Francisco, CA | Ashby | 2026-11-19 | Agent | Submitted | https://jobs.ashbyhq.com/Ampersand/3cb05976-1a91-4cee-a17d-efa35d6e9d17 |
 | 8209722003 | OKX | Software Engineer, Card | San Jose, CA | Greenhouse | 2026-11-19 | Agent | Submitted | https://job-boards.greenhouse.io/okx/jobs/8209722003 |
 | JR368687 | Salesforce | Software Engineer, Infrastructure and Distributed Systems | San Francisco, CA | Workday | 2026-11-19 | Agent | Submitted | https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687 |
