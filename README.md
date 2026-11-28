@@ -8,6 +8,7 @@ Maintained by Muse (agent) on each submission, alongside the local checkpoints.
 
 | Job ID | Company | Title | Location | Platform | Date applied | Applied by | Status | Posting |
 |---|---|---|---|---|---|---|---|---|
+| 3a943706-87b4-4a0f-b1ac-70d1ff3d00e2 | Cerebras Systems | AI Datacenter Infrastructure Engineer | Remote, US | Ashby | 2026-11-28 | Agent (manual batch) | Submitted | https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2 |
 | 8113314 | InMobi | AI Engineer | San Mateo, CA | Greenhouse | 2026-11-26 | Agent | Submitted | https://job-boards.greenhouse.io/inmobi/jobs/8113314 |
 | — | LangChain | Commercial Deployed Engineer | Bay Area, CA | Ashby | 2026-11-26 | Manual (receipt) | Submitted | https://jobs.ashbyhq.com/langchain |
 | — | Pura | Software Engineer (Junior / Mid-Level) | Remote, US | JazzHR | 2026-11-26 | Manual (receipt) | Submitted | https://pura.applytojob.com/apply/SR5aHx6pwl/Software-Engineer-Junior-MidLevel |
